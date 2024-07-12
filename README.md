@@ -74,7 +74,7 @@ You are **NOT** allowed to use any kind of generative AI tools for your homework
 Your grade will be comprised of the following components:
 
 1. **Assignments (40%)**: There will be 4 assignments, with **two** weeks for each. Each assignment contributes 10% to your final grade.
-2. **Midterm (10%)**: There will be one exam before Thanksgiving. The goal of the exam is to ensure you understand the basic concepts of machine learning and deep learning.
+2. **Midterm (10%)**: There will be one in-person exam before Thanksgiving. The goal of the exam is to ensure you understand the basic concepts of machine learning and deep learning.
 3. **Project (50%)**: The final project includes:
    1. **Proposal (5%)**: Explain your plan for your project, maximum 2 pages.
    2. **Code and Performance (25%)**: Your code should be well-organized, and your model should have reasonable performance. What is reasonable? We will learn in class.

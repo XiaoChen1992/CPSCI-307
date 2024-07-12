@@ -12,7 +12,7 @@ MWF 3:30 PM - 4:30 PM or by appointment via email. You can meet me in person or 
 
 I usually reply to emails within 48 hours. If you do not receive a reply, please email me again.
 
-:email:schen3@hamilton.edu
+:email:: schen3@hamilton.edu
 
 ## Learning Objectives
 

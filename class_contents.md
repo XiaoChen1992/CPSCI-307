@@ -13,4 +13,10 @@ marp: true
 
 
 3. Proability review
-3.1. Conditional proability 
+3.1. Random variables
+3.2. Proability
+3.3. Conditional proability
+
+----
+## Class 1
+Introduction to Deep Learning

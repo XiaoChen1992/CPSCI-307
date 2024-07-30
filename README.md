@@ -2,110 +2,97 @@
 
 **WELCOME!!!**
 
-This is home page for Hamilton College CPSCI-307 Topics in Computer Science II: Deep Learning. Be sure you ***READ THIS PAGE CAREFULLY!!!***
+This is the homepage for Hamilton College CPSCI-307 Topics in Computer Science II: Deep Learning. Be sure to ***READ THIS PAGE CAREFULLY!!!***
 
-# Office Hours
+## Office Hours and email
 
-MWF 3:30PM-4:30PM or appointment by email. You can meet me in person or zoom. 
+Office: Science building 2016.
 
-Usually I will reply your email no later than 48 hours, if you do not receive the reply, email me again.
+MWF 3:30 PM - 4:30 PM or by appointment via email. You can meet me in person or on Zoom.
 
-# Learning objectives
+I usually reply to emails within 48 hours. If you do not receive a reply, please email me again.
 
-In this class, we will focus on applying deep learning technoigy on the real world data. After this class, you shoud be able to:
+:email:: schen3@hamilton.edu
 
-1. Covert a real-life or research question into computer science way
+## Learning Objectives
 
-2. Build a deep learing pipeline to solve the question
+In this class, we will focus on applying deep learning technology to real-world data. After this class, you should be able to:
 
-3. Evaluate your deep learning model's performance
+1. Convert a real-life or research question into a computer science problem.
+2. Build a deep learning pipeline to solve the problem.
+3. Evaluate the performance of your deep learning model.
 
-# Prerequisites
+## Prerequisites
 
-1. You should be comfortable to use python for programming or you are familar with other programming languages and can learn python in a short time.
+1. You should be comfortable using Python for programming or be familiar with other programming languages and can learn Python quickly.
+2. A basic background in linear algebra (vectors, matrices, matrix operations, etc.) is required.
 
-2. Some basic linear algebra backgroud (vector, matrix, matrix operation, etc) are required
+## Course Materials
 
-# Cousrse Materials
+### Textbook
 
-## Textbook
+We will use [Dive into Deep Learning](https://d2l.ai/) as our main textbook. You can [download the PDF here](https://arxiv.org/pdf/2106.11342#page=25.12). Additionally, some classic machine learning and deep learning papers will be included in the reading list as homework assignments.
 
-We will use [Dive into Deep Learning](https://d2l.ai/) as our main text book [(PDF download](https://arxiv.org/pdf/2106.11342#page=25.12)). Also, some classic machine/deep learning papers will also be included in readling list as home works.
+The following two books are also worth reading if you want to explore more of the math behind machine learning and deep learning. Both books require a solid statistics background. Let AI help you understand these two books:
 
-The following two books are also worth to read if you want to discover more math behind machine learning and deep learning.
+1. [Deep Learning](https://www.deeplearningbook.org/)
+2. [ESL (The Elements of Statistical Learning)](https://hastie.su.domains/ElemStatLearn/)
 
-1. [Deep Learning ](https://www.deeplearningbook.org/)
+### Online Resources
 
-2. [ESL](https://hastie.su.domains/ElemStatLearn/)
+Here are some high-quality machine learning and deep learning online classes if you want to explore more areas:
 
-## Online resourses
+1. Deep Learning: [CS229](https://cs229.stanford.edu/)
+2. Computer Vision: [CS231n](https://cs231n.stanford.edu/)
+3. NLP: [CS224n](https://web.stanford.edu/class/cs224n/)
+4. Graph Neural Network: [CS224w](https://web.stanford.edu/class/cs224w/)
 
-Some high quality machine learning and deep learning online classes if you want to discvoer more areas.
+### Environment Setup
 
-1. [CS229](https://cs229.stanford.edu/)
+We will use [PyTorch](https://pytorch.org/get-started/locally/) (version: Stable 2.3.1) for all assignments and projects. This class requires a GPU for deep learning model training. You need to have access to a GPU for the class. Usually, an NVIDIA GPU is the default for training. However, you can also use AMD or Apple M chips, though they may bring unexpected warnings or errors that you will need to debug.
 
-2. [CS231n](https://cs231n.stanford.edu/)
-
-3. [CS224w](https://web.stanford.edu/class/cs224w/)
-
-4. [CS224n](https://web.stanford.edu/class/cs224n/)
-
-## Enviroment setting
-
-We will use [PyTorch ](https://pytorch.org/get-started/locally/) (version: Stable 2.3.1) for all assignments and projects. This class requires GPU for deep learning model training. You need to prepare your own GPU for class. Usually, NVIDIA GPU is default for training. But you also can choose AMD or Apple M chip for traning. However, AMD and Apple GPU may bring some unexpeted warnings or errors which need you to debug by yourself. 
-
-If you do not have a GPU, some online platform can be considered. Here are some GPU notebook options. 
+If you do not have a GPU, some online platforms can be considered. Here are some GPU notebook options:
 
 1. Google Colab
+2. Amazon SageMaker
+3. Kaggle GPU
 
-2. Amazon  SeageMake
+If you want to train more complicated models, you can choose to build a cloud machine for use, but this is not required for this class.
 
-3. Kaggle GPU 
+## Academic Integrity & Collaboration
 
-If you want to train more complcaited model, you always can choose build cloud machine for use, but this is not required for this class.
+You should complete all your homework assignments independently. You can discuss your homework with me, your classmates, or your friends, but you are **NOT** allowed to use others' code or any code from the internet.
 
-# Academic Integrity & Collaboration
+You can work on your final project on your own or in teams of up to 4 students. If you choose to work in a team, report each member's contribution in the final report.
 
-You should work on your all your homeworks by yourself. You can discuss your homework with me, your classmates, or your firends, but you are **NOT** allowed to use other's code or any code from internet. 
+### AI Policy
 
-You can work on your final project on your own or team up to 4 students. If you team work on the final project, report each member's contribution on final report.
+You are **NOT** allowed to use any kind of generative AI tools for your homework assignments. Any code from generative AI tools or the internet will be considered cheating. You are **ENCOURAGED** to use AI tools for your final project, but you need to submit the prompt history (PDF file) to me.
 
-## AI policy
+## Grading
 
-You are **NOT** allowed to use any kind of generative AI tools for your homeworks.Any code from generative AI tools or internet will be consider as cheating. You are **ENCOURAGED** to use AI tools for your final project.
+Your grade will be comprised of the following components:
 
-# Grading
-
-Your grade will be comprised of the following weighted components:
-
-1. **Assignments(40%):** We will have 4 assignments, you have **two** weeks for each assignment. Each assignment contributs 10% of your final grade.
-
-2. **Midterms (10%):** We will only have one exam before Thanksgiving. The exam's goal is make sure you understand the basic conpet of machine learing and deep learning.
-
-3. **Project (50%):** The final project covers:
-   
-   1. Proposal (5%): Expalin your paln for your project, maximum 2 pages.
-   
-   2. Code and performance (25%): You code shoud be well orgnized and your model should have a resonable performance. What is resonable? We will learn it in class.
-   
-   3. Presentation (10%):  Each group needs to present your project. maximum 10 mins. 
-   
-   4. Project report (10%): Report shouid follow [IEEE format](https://www.ieee.org/conferences/publishing/templates.html), maxiumum 8 pages (includes reference). The report covers following parts:
-      
+1. **Assignments (40%)**: There will be 4 assignments, with **two** weeks for each. Each assignment contributes 10% to your final grade.
+2. **Midterm (10%)**: There will be one in-person exam before Thanksgiving. The goal of the exam is to ensure you understand the basic concepts of machine learning and deep learning.
+3. **Project (50%)**: The final project includes:
+   1. **Proposal (5%)**: Explain your plan for your project, maximum 2 pages.
+   2. **Code and Performance (25%)**: Your code should be well-organized, and your model should have reasonable performance. What is reasonable? We will learn in class.
+   3. **Presentation (10%)**: Each group needs to present their project, maximum 10 minutes.
+   4. **Project Report (10%)**: The report should follow the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html), maximum 8 pages (including references). The report should cover the following sections:
       1. Abstract
-      
       2. Introduction
-      
-      3. Method and materials
-      
+      3. Method and Materials
       4. Performance
-      
-      5. Conclusion.
+      5. Conclusion
 
-# Tips for success
+## Tips for Success
 
-If want to learning this class well, here are some suggestions
+To succeed in this class, here are some suggestions:
 
-1. Read high quality code and learning how they orgnized their code
+1. Read high-quality code and learn how it is organized.
+2. Design your deep learning model pipeline carefully.
 
-2. Design your deep learing model pipeline carefully
+## Recommended Reading
+
+1. [The Art of Linear Algebra](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN/blob/main/The-Art-of-Linear-Algebra.pdf)

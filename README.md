@@ -25,6 +25,7 @@ After this class, you should be able to:
 2. Build a deep learning pipeline to solve the problem
 3. Correctly evaluate your deep learning model's performance
 
+Here is the deatiled class [schedule](https://docs.google.com/spreadsheets/d/1zrNzYpYoMB3QBeflDs98WeM7FcPjadZg7CCuY6cjhQg/edit?usp=sharing) and plan. The table will keep updating.
 ## Prerequisites
 
 1. This class heavily relies on Python. You should be comfortable using Python for programming or be familiar with other programming languages and able to learn and use Python quickly.

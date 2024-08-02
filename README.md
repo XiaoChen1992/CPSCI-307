@@ -68,7 +68,7 @@ You are **NOT** allowed to use any kind of generative AI tools (online or offlin
 
 You are **ENCOURAGED** to use AI tools for your final project, but you **NEED** to provide your prompt history to me. Here is an [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/prompt_history_example.pdf).
 
-**!!!YOU ARE ONLY ALLOWED TO USE AI TOOLS IN THIS CLASS!!!**
+<span style="color: red;">**!!!YOU ARE ONLY ALLOWED TO USE AI TOOLS IN THIS CLASS!!!**</span>
 
 ## Grading
 
@@ -98,7 +98,13 @@ Your grade will be comprised of the following weighted components:
 
 You are expected to attend every class. You may be excused only for college-sanctioned activities, and you must let me know about such absences as soon as you are notified. This includes missing class for religious, athletic, or academic conflicts. If you are sick or have an important appointment at the health or counseling center, please email me before the class and take care of yourself. If you will be absent for a significant period, please contact me to work out a way to catch up. If you must miss a class for a college-sanctioned activity, you must notify me prior to the class in question via email.
 
+**Every two unexcuess absences will degrade you final score half level. For example, you final score is A, because of absences, you final score will drop to A-, or A- to B+, etc.** 
+
 No late work will be accepted without prior permission. If you contact me at least one business day before the due date (unless faced with an emergency) with appropriate requests for an extension and/or makeup assignments, you will be given additional time to make up late assignments equal to the time lost due to the unforeseen circumstance.
+
+**Any unexcuess late (within 24 hours) will result 10% of score deduction for the assignment. For example, you raw assginment's score is 89, because of the late, the score will drop to 89 * 0.9 = 80.1. If you submit your assignment late more than 24 hours, I will not accept it, the score will be 0.**
+
+
 
 ## Seeking Help
 

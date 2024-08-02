@@ -60,7 +60,7 @@ If you have any financial difficulties in purchasing GPU services, **TALK TO ME 
 
 You should work on all homework by yourself. You can discuss your homework with me, your classmates, your friends, or other professors, but you are **NOT** allowed to use others' code or any code from the internet.
 
-You can work on the final project on your own or team up with up to 3 students. If you choose to work in a team, your team needs to report each member's contribution in the final report. Here is an [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/contribution.md). You should include this file in your own project.
+You can work on the final project on your own or team up with up to 3 students. If you choose to work in a team, your team needs to report each member's contribution in the final report. Here is an [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/contrbution.md). You should include this file in your own project.
 
 ### AI Policy
 

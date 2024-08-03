@@ -94,6 +94,8 @@ Your grade will be comprised of the following weighted components:
       3. Results and analysis
       4. Conclusion and future work
 
+You final score will be weighted sum of all three parts. For example, Assignments: 89, exampl: 80, project: 95, then final score is 89 * 0.3 + 80 * 0.1 + 95 * 0.6 = 91.7.
+
 ## Attendance and Late Policy
 
 You are expected to attend every class. You may be excused only for college-sanctioned activities, and you must let me know about such absences as soon as you are notified. This includes missing class for religious, athletic, or academic conflicts. If you are sick or have an important appointment at the health or counseling center, please email me before the class and take care of yourself. If you will be absent for a significant period, please contact me to work out a way to catch up. If you must miss a class for a college-sanctioned activity, you must notify me prior to the class in question via email.

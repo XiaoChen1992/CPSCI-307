@@ -1,3 +1,4 @@
+Introduction + review + tensor + code
 linear regression + basic optimization alogorithms
 linear classification + loss function + first dataset (data loader)
 MLP + pytorch code

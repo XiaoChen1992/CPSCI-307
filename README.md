@@ -1,15 +1,18 @@
 # CPSCI-307
 
-This is the home page for Hamilton College CPSCI-307 Topics in Computer Science II: Deep Learning. Be sure you ***READ THIS PAGE CAREFULLY!!!***
+This is the home page for Hamilton College CPSCI-307: Deep Learning. Be sure you ***READ THIS PAGE CAREFULLY!!!***
 
 ## Lecture Details
 
-**Lecture time**: Monday, Wednesday, and Friday, 2:30 PM - 3:45 PM at Taylor Science Center, 3024
+**Lecture time**: Monday, Wednesday 2:30 PM - 3:45 PM at Christina A. Johnson Hall (CJ Hall) 305.
 
-**Office Hours**: Monday, Wednesday, and Friday, 4:00 PM - 4:50 PM, or by appointment via email. You can meet me at my office (Taylor Science Center 2016) or via Zoom if needed.
+**Office Hours**: Monday, Wednesday 1:15 PM - 2:15 PM, Firday 1:15 PM - 4:00 PM, or by appointment via email. You can meet me at my office (SCCT 2016) or via Zoom if needed. I encourage you to come to office hours if you have any questions or need help with your assginments, projects, or exam.
 
-**Email**: schen3@hamilton.edu  
-Usually, I will reply to your email within 48 hours. If you do not receive a reply, email me again.
+**Email**: schen3@hamilton.edu
+Usually, I will respond to emails within 24 hours. 
+
+## Course diescription
+This course discusses deep learning, covering foundational machine learning principles (loss functions, bias-variance trade-off, and optimization) and advanced models (Multilayer Perceptron, Convolutional Neural Networks, Recurrent Neural Networks, Transformers). The course is project-based, emphasizing the application of these techniques to real-world datasets using the deep learning framework PyTorch.
 
 ## Learning Objectives
 
@@ -52,30 +55,37 @@ If you do not have a GPU, some online platforms can be considered. Here are some
 2. Amazon SageMaker
 3. Kaggle GPU
 
-All these products provide different plans to choose from based on how complex a model you want to work with. Feel free to choose other online products if you think they fit you better.
+All these products provide different plans to choose from based on how complex a model you want to work with. In this class, we will use Google Colab for demonstration. Feel free to choose other online products if you think they fit you better, but you need to figure out the settings and enviroments by yourself.
+
+You will need a GPU until Assignment 2.
+
+### Fee
+Colab provides free GPU resources (with very limited GPU hours), but you also can pay for more resources. You can sign up for a paid account at [Google Colab](https://colab.research.google.com/signup). 
 
 If you have any financial difficulties in purchasing GPU services, **TALK TO ME OR THE DEPARTMENT**. We are ready to help!
 
 ## Academic Integrity & Collaboration
 
-You should work on all homework by yourself. You can discuss your homework with me, your classmates, your friends, or other professors, but you are **NOT** allowed to use others' code or any code from the internet.
+You should work on all assignments by yourself. You can discuss your assignments with me, your classmates, your friends, or other professors, but you are **NOT** allowed to use others' code or any code from the internet.
 
 You can work on the final project on your own or team up with up to 3 students. If you choose to work in a team, your team needs to report each member's contribution in the final report. Here is an [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/contrbution.md). You should include this file in your own project.
 
 ### AI Policy
 
-You are **NOT** allowed to use any kind of generative AI tools (online or offline) for your homework. Any code from generative AI tools (online or offline) or the internet will be considered cheating.
+### Assigment
+You are **NOT** allowed to use any kind of generative AI tools (online or offline) for your assignments. Any code from generative AI tools (online or offline) or the internet will be considered cheating.
 
+### Final Project
 You are **ENCOURAGED** to use AI tools for your final project, but you **NEED** to provide your prompt history to me. Here is an [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/prompt_history_example.pdf).
 
-<span style="color: red;">**!!!YOU ARE ONLY ALLOWED TO USE AI TOOLS IN THIS CLASS!!!**</span>
+<span style="color: red;">**!!!YOU ARE ONLY ALLOWED TO USE AI TOOLS IN THIS CLASS!!! For other class, follow the academic integrity policy of that class or ask your professor.**</span>
 
 ## Grading
 
 Your grade will be comprised of the following weighted components:
 
 1. **Assignments (30%)**: We will have 3 assignments, with **two** weeks for each assignment. Each assignment contributes 10% of your final grade.
-2. **Midterms (10%)**: We will only have one in-class exam before Thanksgiving. The exam's goal is to ensure you understand the basic concepts of machine/deep learning.
+2. **Midterms (10%)**: We will only have one in-class exam (no notes) before Thanksgiving. The exam's goal is to ensure you understand the basic concepts of machine/deep learning.
 3. **Project (60%)**: The final project covers:
    1. Proposal (10%): Explain your plan for the final project, up to 2 pages  
    2. Data (10%): You should report how you collected your own data for the final project. Include the following parts: a. Where is the data source? b. How did you collect the data? c. How did you preprocess the data? The report is up to 1 pages.
@@ -93,14 +103,14 @@ Your grade will be comprised of the following weighted components:
       2. Details of the deep learning model's design
       3. Results and analysis
       4. Conclusion and future work
+4. **Participation**: If you have three unexcused absences. You will lose 5% of your final grade. For example, you final score is 90, but you missed three class, then you final score is $90 \times 0.95 = 85.5$
 
-You final score will be weighted sum of all three parts. For example, Assignments: 89, exampl: 80, project: 95, then final score is 89 * 0.3 + 80 * 0.1 + 95 * 0.6 = 91.7.
+You final score will be weighted sum of all three parts. For example, Assignments: 89, exam: 80, project: 95, then final score is 89 * 0.3 + 80 * 0.1 + 95 * 0.6 = 91.7.
 
 ## Attendance and Late Policy
 
 You are expected to attend every class. You may be excused only for college-sanctioned activities, and you must let me know about such absences as soon as you are notified. This includes missing class for religious, athletic, or academic conflicts. If you are sick or have an important appointment at the health or counseling center, please email me before the class and take care of yourself. If you will be absent for a significant period, please contact me to work out a way to catch up. If you must miss a class for a college-sanctioned activity, you must notify me prior to the class in question via email.
 
-**Every two unexcused absences will degrade your final score a level. For example, your final score is A, because of absences, your final score will drop to A-, or A- to B+, etc.** 
 
 No late work will be accepted without prior permission. If you contact me at least one business day before the due date (unless faced with an emergency) with appropriate requests for an extension and/or makeup assignments, you will be given additional time to make up late assignments equal to the time lost due to the unforeseen circumstance.
 

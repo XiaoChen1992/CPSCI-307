@@ -67,6 +67,10 @@ Colab provides free GPU resources (with very limited GPU hours), but you also ca
 
 If you have any financial difficulties in purchasing GPU services, **TALK TO ME OR THE DEPARTMENT**. We are ready to help!
 
+### Labtops and Electronics
+
+You should bring a laptop to lectures, we will live code every class. If you are unable to do this, let us know. You should not use a phone or any similar device during lectures. If you take notes on a tablet, then you should not be typing on it during class, but only writing (e.g. with a stylus) unless you require accommodation for a disability. Tablets should be kept flat on the desk and should not be propped up unless you require accomodation for a disability. If you would like to discuss this restriction, you are always welcome to come talk to me about it.
+
 ## Academic Integrity & Collaboration
 
 You should work on all assignments by yourself. You can discuss your assignments with me, your classmates, your friends, or other professors, but you are **NOT** allowed to use others' code or any code from the internet.

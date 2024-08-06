@@ -6,13 +6,14 @@ This is the home page for Hamilton College CPSCI-307: Deep Learning. Be sure you
 
 **Lecture time**: Monday, Wednesday 2:30 PM - 3:45 PM at Christina A. Johnson Hall (CJ Hall) 305.
 
-**Office Hours**: Monday, Wednesday 1:15 PM - 2:15 PM, Firday 1:15 PM - 4:00 PM, or by appointment via email. You can meet me at my office (SCCT 2016) or via Zoom if needed. I encourage you to come to office hours if you have any questions or need help with your assginments, projects, or exam.
+**Office Hours**: Monday, Wednesday 1:15 PM - 2:15 PM, Firday 1:30 PM - 4:00 PM, or by appointment via email. You can meet me at my office (SCCT 2016) or via Zoom if needed. I encourage you to come to office hours if you have any questions or need help with your assginments, projects, or exam.
 
 **Email**: schen3@hamilton.edu
 Usually, I will respond to emails within 24 hours. 
 
 ## Course diescription
-This course discusses deep learning, covering foundational machine learning principles (loss functions, bias-variance trade-off, and optimization) and advanced models (Multilayer Perceptron, Convolutional Neural Networks, Recurrent Neural Networks, Transformers). The course is project-based, emphasizing the application of these techniques to real-world datasets using the deep learning framework PyTorch.
+
+This course discusses deep learning, covering foundational machine learning principles (loss functions, bias-variance trade-off, and optimization) and advanced models (Multilayer Perceptron, Convolutional Neural Networks, Recurrent Neural Networks, Transformers) and thier allications. The course is project-based, emphasizing the application of these techniques to real-world datasets using the deep learning framework PyTorch.
 
 ## Learning Objectives
 
@@ -29,6 +30,7 @@ After this class, you should be able to:
 3. Correctly evaluate your deep learning model's performance
 
 Here is the deatiled class [schedule](https://docs.google.com/spreadsheets/d/1zrNzYpYoMB3QBeflDs98WeM7FcPjadZg7CCuY6cjhQg/edit?usp=sharing) and plan. The table will keep updating.
+
 ## Prerequisites
 
 1. This class heavily relies on Python. You should be comfortable using Python for programming or be familiar with other programming languages and able to learn and use Python quickly.
@@ -60,6 +62,7 @@ All these products provide different plans to choose from based on how complex a
 You will need a GPU until Assignment 2.
 
 ### Fee
+
 Colab provides free GPU resources (with very limited GPU hours), but you also can pay for more resources. You can sign up for a paid account at [Google Colab](https://colab.research.google.com/signup). 
 
 If you have any financial difficulties in purchasing GPU services, **TALK TO ME OR THE DEPARTMENT**. We are ready to help!
@@ -73,9 +76,11 @@ You can work on the final project on your own or team up with up to 3 students. 
 ### AI Policy
 
 ### Assigment
+
 You are **NOT** allowed to use any kind of generative AI tools (online or offline) for your assignments. Any code from generative AI tools (online or offline) or the internet will be considered cheating.
 
 ### Final Project
+
 You are **ENCOURAGED** to use AI tools for your final project, but you **NEED** to provide your prompt history to me. Here is an [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/prompt_history_example.pdf).
 
 <span style="color: red;">**!!!YOU ARE ONLY ALLOWED TO USE AI TOOLS IN THIS CLASS!!! For other class, follow the academic integrity policy of that class or ask your professor.**</span>
@@ -85,38 +90,65 @@ You are **ENCOURAGED** to use AI tools for your final project, but you **NEED** 
 Your grade will be comprised of the following weighted components:
 
 1. **Assignments (30%)**: We will have 3 assignments, with **two** weeks for each assignment. Each assignment contributes 10% of your final grade.
+
 2. **Midterms (10%)**: We will only have one in-class exam (no notes) before Thanksgiving. The exam's goal is to ensure you understand the basic concepts of machine/deep learning.
+
 3. **Project (60%)**: The final project covers:
+   
    1. Proposal (10%): Explain your plan for the final project, up to 2 pages  
+   
    2. Data (10%): You should report how you collected your own data for the final project. Include the following parts: a. Where is the data source? b. How did you collect the data? c. How did you preprocess the data? The report is up to 1 pages.
+   
    3. Code (15%): You need to push your project's code to the class's GitHub repo. Your code should be well-organized and easy to read. Check this [example](https://github.com/XiaoChen1992/CPSCI-307/tree/main/project_example) to organize your code.
+   
    4. Performance (15%):
+      
       1. I should be able to directly run your `inference.py` file in the terminal to use your model. For example:
          
          ```shell
          python inference.py --data /example/data1
          ```
+      
       2. You need to report your learning curve through [Weights & Biases](https://wandb.ai/site). We will learn how to use this tool in class.
+      
       3. Your model's performance should be evaluated by suitable metrics and achieve reasonable performance. We will learn what constitutes reasonable performance in class.
+   
    5. Poster (15%): We plan to have a department-wide poster session. The poster should cover the following parts:
+      
       1. Introduction of the question
       2. Details of the deep learning model's design
       3. Results and analysis
       4. Conclusion and future work
+
 4. **Participation**: If you have three unexcused absences. You will lose 5% of your final grade. For example, you final score is 90, but you missed three class, then you final score is $90 \times 0.95 = 85.5$
 
-You final score will be weighted sum of all three parts. For example, Assignments: 89, exam: 80, project: 95, then final score is 89 * 0.3 + 80 * 0.1 + 95 * 0.6 = 91.7.
+You final score will be weighted sum of all three parts. For example, Assignments: 89, exam: 80, project: 95, then final score is $89 \times 0.3 + 80 \times 0.1 + 95 \times 0.6 = 91.7$.
+
+You final score will conver to letter grade by following table:
+
+| Score | Letter Grade |
+| ----- | ------------ |
+| >=97  | A+           |
+| 93~96 | A            |
+| 90~92 | A-           |
+| 87~89 | B+           |
+| 83~86 | B            |
+| 80~82 | B-           |
+| 77~79 | C+           |
+| 73~76 | C            |
+| 70~72 | C-           |
+| 67~69 | D+           |
+| 63~66 | D            |
+| 60~62 | D-           |
+| <60   | F            |
 
 ## Attendance and Late Policy
 
 You are expected to attend every class. You may be excused only for college-sanctioned activities, and you must let me know about such absences as soon as you are notified. This includes missing class for religious, athletic, or academic conflicts. If you are sick or have an important appointment at the health or counseling center, please email me before the class and take care of yourself. If you will be absent for a significant period, please contact me to work out a way to catch up. If you must miss a class for a college-sanctioned activity, you must notify me prior to the class in question via email.
 
-
 No late work will be accepted without prior permission. If you contact me at least one business day before the due date (unless faced with an emergency) with appropriate requests for an extension and/or makeup assignments, you will be given additional time to make up late assignments equal to the time lost due to the unforeseen circumstance.
 
 **Any unexcused late (within 24 hours) will result 10% of score deduction for the assignment. For example, your raw assignment's score is 89, because of the late, the score will drop to 89 * 0.9 = 80.1. If you submit your assignment late more than 24 hours, I will not accept it, the score will be 0.**
-
-
 
 ## Seeking Help
 

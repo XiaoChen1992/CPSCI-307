@@ -164,7 +164,7 @@ Your grade will be comprised of the following weighted components:
 
 You final score will be weighted sum of all three parts. For example, Assignments: 89, exam: 80, project: 95, then final score is $89 \times 0.3 + 80 \times 0.1 + 95 \times 0.6 = 91.7$.
 
-You final score will conver to letter grade by following table:
+You final score will convert to letter grade by following table:
 
 | Score | Letter Grade |
 | ----- | ------------ |

@@ -6,7 +6,7 @@ This is the home page for Hamilton College CPSCI-307: Deep Learning. Be sure you
 
 **Lecture time**: Monday, Wednesday 2:30 PM - 3:45 PM at Christina A. Johnson Hall (CJ Hall) 305.
 
-**Office Hours**: Monday, Wednesday 1:15 PM - 2:15 PM, Firday 1:30 PM - 4:00 PM, or by appointment via email. You can meet me at my office (SCCT 2016) or via Zoom if needed. I encourage you to come to office hours if you have any questions or need help with your assginments, projects, or exam.
+**Office Hours**: Monday, Wednesday 1:15 PM - 2:15 PM, Firday 1:30 PM - 4:00 PM, or by appointment via email. You can meet me at my office (SCCT 2016) or via Zoom if needed. I encourage you to come to office hours if you have any questions or need help with your assignments, projects, or exam.
 
 **Email**: schen3@hamilton.edu
 Usually, I will respond to emails within 24 hours. 
@@ -54,17 +54,17 @@ Here is the deatiled class [schedule](https://docs.google.com/spreadsheets/d/1zr
 | 9    | 19    | 2024-10-28 (Monday)     | - Object Detection and Image Segmentation                         |                                    |
 |      | 20    | 2024-10-30 (Wednesday)  | - SSD                                                              |                                    |
 | 10   | 21    | 2024-11-04 (Monday)     | - Review probability<br>- Word vector and embeddings              |                                    |
-|      | 22    | 2024-11-06 (Wednesday)  | - Sequential model                                                 | Assignment 3 due                   |
-| 11   | 23    | 2024-11-11 (Monday)     | - GRU<br>- LSTM                                                    |                                    |
-|      | 24    | 2024-11-13 (Wednesday)  | - bi-LSTM<br>- Sequence to Sequence                                |                                    |
-| 12   | 25    | 2024-11-18 (Monday)     | - Word embedding                                                   |                                    |
-|      | 26    | 2024-11-20 (Wednesday)  | - Attention, Axial Attention, Channel Attention                   |                                    |
+|      | 22    | 2024-11-06 (Wednesday)  | - Word embedding                                                   | Assignment 3 due                   |
+| 11   | 23    | 2024-11-11 (Monday)     | - Sequential model GRU<br>- LSTM                                                    |                                    |
+|      | 24    | 2024-11-13 (Wednesday)  | - GRU<br>- LSTM bi-LSTM<br>                                        |                                    |
+| 12   | 25    | 2024-11-18 (Monday)     | - bi-LSTM<br>- Sequence to Sequence                                                   |                                    |
+|      | 26    | 2024-11-20 (Wednesday)  | -                     |                                            |
 |      | 27    | 2024-11-22 (Friday)     |                                                                    | Discuss training in office hour    |
 | 13   |       | Thanksgiving!!! No class|                                                                    |                                    |
-| 14   | 28    | 2024-12-02 (Monday)     | - Self-attention<br>- Transformer                                  |                                    |
-|      | 29    | 2024-12-04 (Wednesday)  | - ViT (Vision Transformer)<br>- Swin Transformer                  | Poster due                         |
-| 15   | 30    | 2024-12-09 (Monday)     | - Introduction to Large Language Models                            |                                    |
-|      | 31    | 2024-12-11 (Wednesday)  | - Introduction to Diffusion Models                                 |                                    |
+| 14   | 28    | 2024-12-02 (Monday)     | -                                   |                                    |
+|      | 29    | 2024-12-04 (Wednesday)  | - Attention, Axial Attention, Channel Attention                    | Poster due                         |
+| 15   | 30    | 2024-12-09 (Monday)     | - Self-attention<br>- Transformer                                  |                                    |
+|      | 31    | 2024-12-11 (Wednesday)  | - ViT (Vision Transformer)<br>- Swin Transformer                   |                                    |
 | 16   |       | 2024-12-16 (Monday) TBD |                                                                    | Poster presentation                |
 
 ## Prerequisites
@@ -106,6 +106,8 @@ If you have any financial difficulties in purchasing GPU services, **TALK TO ME 
 ### Labtops and Electronics
 
 You should bring a laptop to lectures, we will live code every class. If you are unable to do this, let us know. You should not use a phone or any similar device during lectures. If you take notes on a tablet, then you should not be typing on it during class, but only writing (e.g. with a stylus) unless you require accommodation for a disability. Tablets should be kept flat on the desk and should not be propped up unless you require accomodation for a disability. If you would like to discuss this restriction, you are always welcome to come talk to me about it.
+
+At most lectures, we will have mini labs(live coding). You are **ONLY** able to use your labtop during the mini lab.
 
 ## Academic Integrity & Collaboration
 

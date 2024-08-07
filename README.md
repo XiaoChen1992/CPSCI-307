@@ -31,6 +31,42 @@ After this class, you should be able to:
 
 Here is the deatiled class [schedule](https://docs.google.com/spreadsheets/d/1zrNzYpYoMB3QBeflDs98WeM7FcPjadZg7CCuY6cjhQg/edit?usp=sharing) and plan. The table will keep updating.
 
+| Week | Class | Date                    | Contents                                                           | Due                                |
+|------|-------|-------------------------|--------------------------------------------------------------------|------------------------------------|
+| 1    | 1     | 2024-09-02 (Monday)     | - Introduction<br>- Linear algebra + calculus                      |                                    |
+|      | 2     | 2024-09-04 (Wednesday)  | - Linear regression<br>- Basic optimization                        |                                    |
+| 2    | 3     | 2024-09-09 (Monday)     | - Linear classification<br>- Loss function<br>- Softmax            |                                    |
+|      | 4     | 2024-09-11 (Wednesday)  | - MLP<br>- Activation function<br>- Bias and variance trade-off   |                                    |
+| 3    | 5     | 2024-09-16 (Monday)     | - Weight decay<br>- Drop out                                       |                                    |
+|      | 6     | 2024-09-18 (Wednesday)  | - Stochastic Gradient Descent<br>- Momentum, AdaGrad, Adam        |                                    |
+| 4    | 7     | 2024-09-23 (Monday)     | - Initialization<br>- Build our first model on House Prices data   | Proposal due                       |
+|      | 8     | 2024-09-25 (Wednesday)  | - Convolution layer<br>- Padding<br>- Stride                       |                                    |
+|      | 9     | 2024-09-27 (Friday)     |                                                                    | Discuss your proposal in office hour|
+| 5    | 10    | 2024-09-30 (Monday)     | - Dilated Convolution layer<br>- Pooling layer<br>- AlexNet        | Assignment 1 due                   |
+|      | 11    | 2024-10-02 (Wednesday)  | - VGG<br>- NiN<br>- GoogleNet                                      |                                    |
+| 6    | 12    | 2024-10-07 (Monday)     | - Batch Normalization<br>- More drop out                           |                                    |
+|      | 13    | 2024-10-09 (Wednesday)  | - ResNet                                                           |                                    |
+|      | 14    | 2024-10-11 (Friday)     |                                                                    | Discuss data plan in office hour   |
+| 7    | 15    | 2024-10-14 (Monday)     | - Second model for image classification<br>- PyTorch Lightning    |                                    |
+|      | 16    | 2024-10-16 (Wednesday)  | - EXAM                                                             |                                    |
+| 8    | 17    | 2024-10-21 (Monday)     | - Guest talk                                                       | Data collection report due         |
+|      | 18    | 2024-10-23 (Wednesday)  | - Data augmentation<br>- Fine tune                                 | Assignment 2 due                   |
+| 9    | 19    | 2024-10-28 (Monday)     | - Object Detection and Image Segmentation                         |                                    |
+|      | 20    | 2024-10-30 (Wednesday)  | - SSD                                                              |                                    |
+| 10   | 21    | 2024-11-04 (Monday)     | - Review probability<br>- Word vector and embeddings              |                                    |
+|      | 22    | 2024-11-06 (Wednesday)  | - Sequential model                                                 | Assignment 3 due                   |
+| 11   | 23    | 2024-11-11 (Monday)     | - GRU<br>- LSTM                                                    |                                    |
+|      | 24    | 2024-11-13 (Wednesday)  | - bi-LSTM<br>- Sequence to Sequence                                |                                    |
+| 12   | 25    | 2024-11-18 (Monday)     | - Word embedding                                                   |                                    |
+|      | 26    | 2024-11-20 (Wednesday)  | - Attention, Axial Attention, Channel Attention                   |                                    |
+|      | 27    | 2024-11-22 (Friday)     |                                                                    | Discuss training in office hour    |
+| 13   |       | Thanksgiving!!! No class|                                                                    |                                    |
+| 14   | 28    | 2024-12-02 (Monday)     | - Self-attention<br>- Transformer                                  |                                    |
+|      | 29    | 2024-12-04 (Wednesday)  | - ViT (Vision Transformer)<br>- Swin Transformer                  | Poster due                         |
+| 15   | 30    | 2024-12-09 (Monday)     | - Introduction to Large Language Models                            |                                    |
+|      | 31    | 2024-12-11 (Wednesday)  | - Introduction to Diffusion Models                                 |                                    |
+| 16   |       | 2024-12-16 (Monday) TBD |                                                                    | Poster presentation                |
+
 ## Prerequisites
 
 1. This class heavily relies on Python. You should be comfortable using Python for programming or be familiar with other programming languages and able to learn and use Python quickly.

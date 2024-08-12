@@ -6,7 +6,7 @@ This is the home page for Hamilton College CPSCI-307: Deep Learning. Be sure you
 
 **Lecture time**: Monday, Wednesday 2:30 PM - 3:45 PM at Christina A. Johnson Hall (CJ Hall) 305.
 
-**Office Hours**: Monday, Wednesday 1:15 PM - 2:15 PM, Tuesday 10:00 AM - 11:00 AM Firday 1:00 PM - 2:30 PM, or by appointment via email. You can meet me at my office (SCCT 2016) or via Zoom if needed. I encourage you to come to office hours if you have any questions or need help with your assignments, projects, or exam.
+**Office Hours**: Monday, Wednesday 1:15 PM - 2:15 PM, Tuesday 10:00 AM - 11:00 AM Firday 1:00 PM - 3:00 PM, or by appointment via email. You can meet me at my office (SCCT 2016) or via Zoom if needed. I encourage you to come to office hours if you have any questions or need help with your assignments, projects, or exam.
 
 **Email**: schen3@hamilton.edu
 Usually, I will respond to emails within 24 hours. 

@@ -93,7 +93,7 @@ You should bring a laptop to lectures, we will live code every class. If you are
 
 At most lectures, we will have mini labs (live coding). You can only use your laptop for coding at mini lab time. You can't use the computer for anything unrelated to the course content. For example, I found twice that if you use the computer for something unrelated to the course, you will lose 10% of your final grade.
 
-If you final score is 90, because of using labtop for unrelated to the course content twice. Your score will drop to $ 90 \times 0.9 =81 $.
+If you final score is 90, because of using labtop for unrelated to the course content twice. Your score will drop to $90 \times 0.9 =81$.
 
 ## Academic Integrity & Collaboration
 

@@ -6,7 +6,7 @@ This is the home page for Hamilton College CPSCI-307: Deep Learning. Be sure you
 
 **Lecture time**: Monday, Wednesday 2:30 PM - 3:45 PM at Christina A. Johnson Hall (CJ Hall) 305.
 
-**Office Hours**: Monday, Wednesday 1:15 PM - 2:15 PM, Firday 1:30 PM - 4:00 PM, or by appointment via email. You can meet me at my office (SCCT 2016) or via Zoom if needed. I encourage you to come to office hours if you have any questions or need help with your assignments, projects, or exam.
+**Office Hours**: Monday, Wednesday 1:15 PM - 2:15 PM, Tuesday 10:00 AM - 11:00 AM, Thursday 10:00 AM - 12:00 PM or by appointment via email. You can meet me at my office (SCCT 2016) or via Zoom if needed. I encourage you to come to office hours if you have any questions or need help with your assignments, projects, or exam.
 
 **Email**: schen3@hamilton.edu
 Usually, I will respond to emails within 24 hours. 
@@ -31,41 +31,25 @@ After this class, you should be able to:
 
 Here is the deatiled class [schedule](https://docs.google.com/spreadsheets/d/1zrNzYpYoMB3QBeflDs98WeM7FcPjadZg7CCuY6cjhQg/edit?usp=sharing) and plan. The table will keep updating.
 
-| Week | Class | Date                    | Contents                                                           | Due                                |
-|------|-------|-------------------------|--------------------------------------------------------------------|------------------------------------|
-| 1    | 1     | 2024-09-02 (Monday)     | - Introduction<br>- Linear algebra + calculus                      |                                    |
-|      | 2     | 2024-09-04 (Wednesday)  | - Linear regression<br>- Basic optimization                        |                                    |
-| 2    | 3     | 2024-09-09 (Monday)     | - Linear classification<br>- Loss function<br>- Softmax            |                                    |
-|      | 4     | 2024-09-11 (Wednesday)  | - MLP<br>- Activation function<br>- Bias and variance trade-off   |                                    |
-| 3    | 5     | 2024-09-16 (Monday)     | - Weight decay<br>- Drop out                                       |                                    |
-|      | 6     | 2024-09-18 (Wednesday)  | - Stochastic Gradient Descent<br>- Momentum, AdaGrad, Adam        |                                    |
-| 4    | 7     | 2024-09-23 (Monday)     | - Initialization<br>- Build our first model on House Prices data   | Proposal due                       |
-|      | 8     | 2024-09-25 (Wednesday)  | - Convolution layer<br>- Padding<br>- Stride                       |                                    |
-|      | 9     | 2024-09-27 (Friday)     |                                                                    | Discuss your proposal in office hour|
-| 5    | 10    | 2024-09-30 (Monday)     | - Dilated Convolution layer<br>- Pooling layer<br>- AlexNet        | Assignment 1 due                   |
-|      | 11    | 2024-10-02 (Wednesday)  | - VGG<br>- NiN<br>- GoogleNet                                      |                                    |
-| 6    | 12    | 2024-10-07 (Monday)     | - Batch Normalization<br>- More drop out                           |                                    |
-|      | 13    | 2024-10-09 (Wednesday)  | - ResNet                                                           |                                    |
-|      | 14    | 2024-10-11 (Friday)     |                                                                    | Discuss data plan in office hour   |
-| 7    | 15    | 2024-10-14 (Monday)     | - Second model for image classification<br>- PyTorch Lightning    |                                    |
-|      | 16    | 2024-10-16 (Wednesday)  | - EXAM                                                             |                                    |
-| 8    | 17    | 2024-10-21 (Monday)     | - Guest talk                                                       | Data collection report due         |
-|      | 18    | 2024-10-23 (Wednesday)  | - Data augmentation<br>- Fine tune                                 | Assignment 2 due                   |
-| 9    | 19    | 2024-10-28 (Monday)     | - Object Detection and Image Segmentation                         |                                    |
-|      | 20    | 2024-10-30 (Wednesday)  | - SSD                                                              |                                    |
-| 10   | 21    | 2024-11-04 (Monday)     | - Review probability<br>- Word vector and embeddings              |                                    |
-|      | 22    | 2024-11-06 (Wednesday)  | - Word embedding                                                   | Assignment 3 due                   |
-| 11   | 23    | 2024-11-11 (Monday)     | - Sequential model GRU<br>- LSTM                                                    |                                    |
-|      | 24    | 2024-11-13 (Wednesday)  | - GRU<br>- LSTM bi-LSTM<br>                                        |                                    |
-| 12   | 25    | 2024-11-18 (Monday)     | - bi-LSTM<br>- Sequence to Sequence                                                   |                                    |
-|      | 26    | 2024-11-20 (Wednesday)  | -                     |                                            |
-|      | 27    | 2024-11-22 (Friday)     |                                                                    | Discuss training in office hour    |
-| 13   |       | Thanksgiving!!! No class|                                                                    |                                    |
-| 14   | 28    | 2024-12-02 (Monday)     | -                                   |                                    |
-|      | 29    | 2024-12-04 (Wednesday)  | - Attention, Axial Attention, Channel Attention                    | Poster due                         |
-| 15   | 30    | 2024-12-09 (Monday)     | - Self-attention<br>- Transformer                                  |                                    |
-|      | 31    | 2024-12-11 (Wednesday)  | - ViT (Vision Transformer)<br>- Swin Transformer                   |                                    |
-| 16   |       | 2024-12-16 (Monday) TBD |                                                                    | Poster presentation                |
+### Inportant Date
+
+| Date                   | Due                                                            | Note                                                                                                                                                                     |
+| ---------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024-09-02 (Monday)    |                                                                | Release Assignmen 0                                                                                                                                                      |
+| 2024-09-09 (Monday)    | Assignment 0                                                   |                                                                                                                                                                          |
+| 2024-09-16 (Monday)    |                                                                | Release Assignment 1                                                                                                                                                     |
+| 2024-09-23 (Monday)    | Proposal due                                                   | Send your proposal to me before class begin (2:30pm)                                                                                                                     |
+| 2024-09-27 (Friday)    | No Class, discuss your proposal with me at office hour         |                                                                                                                                                                          |
+| 2024-09-30 (Monday)    | Assignment 1                                                   | Push your assignment to git before class begin (2:30 pm)                                                                                                                 |
+| 2024-10-07 (Monday)    |                                                                | Release Assignment 2                                                                                                                                                     |
+| 2024-10-11 (Friday)    | No Class,  disscuss data plan with at office Hour.             |                                                                                                                                                                          |
+| 2024-10-21 (Monday)    | Data collection report due                                     | 1. You do not need to have all data yet, but you should have a solid plan and some data at this time point.
+<br/>2. Send your proposal to me before class begin (2:30pm) |
+| 2024-10-23 (Wednesday) | Assignment 2                                                   | 1. Push your assignment to git before class begin (2:30pm)<br/>2. Release Assignment 3                                                                                  |
+| 2024-11-04 (Monday)    |                                                                | Discuss your model buiding detials with me at office hour                                                                                                                |
+| 2024-11-06 (Wednesday) | Assignment 3                                                   | push your assignment to git before class begin (2:30pm)                                                                                                                  |
+| 2024-11-22 (Friday)    | No class, discuss the training detailes with me at office hour |                                                                                                                                                                          |
+| 2024-12-04 (Wednesday) | Poster Due                                                     | I will provide some suggestions. So you still have one week to refine it.                                                                                                |
 
 ## Prerequisites
 

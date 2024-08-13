@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CPSCI-307
 
 This is the home page for Hamilton College CPSCI-307: Deep Learning. Be sure you ***READ THIS PAGE CAREFULLY!!!***
@@ -46,7 +45,8 @@ Here is the deatiled class [schedule](https://docs.google.com/spreadsheets/d/1zr
 | 2024-10-11 (Friday)    | No Class,  disscuss data plan with at office Hour.             |                                                                                                                                                                          |
 | 2024-10-21 (Monday)    | Data collection report due                                     | 1. You do not need to have all data yet, but you should have a solid plan and some data at this time point.
 <br/>2. Send your proposal to me before class begin (2:30pm) |
-| 2024-10-23 (Wednesday) | Assignment 2                                                   | 1. Push your assignment to git before class begin (2:30pm)<br/>2. Release Assignment 3                                                                                  |
+| 2024-10-23 (Wednesday) | Assignment 2                                                   | 1. Push your assignment to git before class begin (2:30pm)
+<br/>2. Release Assignment 3                                                                                  |
 | 2024-11-04 (Monday)    |                                                                | Discuss your model buiding detials with me at office hour                                                                                                                |
 | 2024-11-06 (Wednesday) | Assignment 3                                                   | push your assignment to git before class begin (2:30pm)                                                                                                                  |
 | 2024-11-22 (Friday)    | No class, discuss the training detailes with me at office hour |                                                                                                                                                                          |
@@ -186,7 +186,6 @@ If you believe you may need accommodation for a disability, contact me privately
 ### Mental Health and Wellness
 
 If you are feeling isolated, depressed, sad, anxious, angry, or overwhelmed, you aren’t alone: we all struggle sometimes. Don’t stay silent! Talk to a trusted confidant: a friend, a family member, a professor you trust. The counseling center offers completely confidential and highly professional services and can be contacted at 315-859-4340. If this seems like a difficult step, contact me. We can talk and call or walk to the counseling center together.
-=======
 # CPSCI-307
 
 This is the home page for Hamilton College CPSCI-307: Deep Learning. Be sure you ***READ THIS PAGE CAREFULLY!!!***
@@ -390,4 +389,3 @@ If you believe you may need accommodation for a disability, contact me privately
 ### Mental Health and Wellness
 
 If you are feeling isolated, depressed, sad, anxious, angry, or overwhelmed, you aren’t alone: we all struggle sometimes. Don’t stay silent! Talk to a trusted confidant: a friend, a family member, a professor you trust. The counseling center offers completely confidential and highly professional services and can be contacted at 315-859-4340. If this seems like a difficult step, contact me. We can talk and call or walk to the counseling center together.
->>>>>>> 2dde4fc41fe25bd81f29932934ca901bce83267a

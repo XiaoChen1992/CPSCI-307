@@ -29,27 +29,27 @@ After this class, you should be able to:
 2. Build a deep learning pipeline to solve the problem
 3. Correctly evaluate your deep learning model's performance
 
+### Inportant Date and schedule
+
+| Date                   | Due                                                            | Note                                                                                                                                                                     |
+| ---------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024-09-02 (Monday)    |                                                                | Release Assignmen 0                                                                                                                                                      |
+| 2024-09-09 (Monday)    | Assignment 0                                                   |                                                                                                                                                                          |
+| 2024-09-16 (Monday)    |                                                                | Release Assignment 1                                                                                                                                                     |
+| 2024-09-23 (Monday)    | Proposal due                                                   | Send your proposal to me before class begin (2:30pm)                                                                                                                     |
+| 2024-09-27 (Friday)    | No Class, discuss your proposal with me at office hour         |                                                                                                                                                                          |
+| 2024-09-30 (Monday)    | Assignment 1                                                   | Push your assignment to git before class begin (2:30 pm)                                                                                                                 |
+| 2024-10-07 (Monday)    |                                                                | Release Assignment 2                                                                                                                                                     |
+| 2024-10-11 (Friday)    | No Class,  disscuss data plan with at office Hour.             |                                                                                                                                                                          |
+| 2024-10-16 (Wednesday) | In-class exam                                                  |                                                                                                                                                                          |
+| 2024-10-21 (Monday)    | Data collection report due                                     | 1. You do not need to have all data yet, but you should have a solid plan and some data at this time point. <br/>2. Send your proposal to me before class begin (2:30pm) |
+| 2024-10-23 (Wednesday) | Assignment 2                                                   | 1. Push your assignment to git before class begin (2:30pm) <br/>2. Release Assignment 3                                                                                  |
+| 2024-11-04 (Monday)    |                                                                | Discuss your model buiding detials with me at office hour                                                                                                                |
+| 2024-11-06 (Wednesday) | Assignment 3                                                   | push your assignment to git before class begin (2:30pm)                                                                                                                  |
+| 2024-11-22 (Friday)    | No class, discuss the training detailes with me at office hour |                                                                                                                                                                          |
+| 2024-12-04 (Wednesday) | Poster Due                                                     | I will provide some suggestions. So you still have one week to refine it.                                                                                                |
+
 Here is the deatiled class [schedule](https://docs.google.com/spreadsheets/d/1zrNzYpYoMB3QBeflDs98WeM7FcPjadZg7CCuY6cjhQg/edit?usp=sharing) and plan. The table will keep updating.
-
-### Inportant Date
-
-| Date                   | Due                                                            | Note                                                                                                                                                                |
-| ---------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024-09-02 (Monday)    |                                                                | Release Assignmen 0                                                                                                                                                 |
-| 2024-09-09 (Monday)    | Assignment 0                                                   |                                                                                                                                                                     |
-| 2024-09-16 (Monday)    |                                                                | Release Assignment 1                                                                                                                                                |
-| 2024-09-23 (Monday)    | Proposal due                                                   | Send your proposal to me before class begin (2:30pm)                                                                                                                |
-| 2024-09-27 (Friday)    | No Class, discuss your proposal with me at office hour         |                                                                                                                                                                     |
-| 2024-09-30 (Monday)    | Assignment 1                                                   | Push your assignment to git before class begin (2:30 pm)                                                                                                            |
-| 2024-10-07 (Monday)    |                                                                | Release Assignment 2                                                                                                                                                |
-| 2024-10-11 (Friday)    | No Class,  disscuss data plan with at office Hour.             |                                                                                                                                                                     |
-| 2024-10-16 (Wednesday) | In-class exam                                                  |                                                                                                                                                                     |
-| 2024-10-21 (Monday)    | Data collection report due                                     | 1. You do not need to have all data yet, but you should have a solid plan and some data at this time point. 2. Send your proposal to me before class begin (2:30pm) |
-| 2024-10-23 (Wednesday) | Assignment 2                                                   | 1. Push your assignment to git before class begin (2:30pm) <br/>2. Release Assignment 3                                                                             |
-| 2024-11-04 (Monday)    |                                                                | Discuss your model buiding detials with me at office hour                                                                                                           |
-| 2024-11-06 (Wednesday) | Assignment 3                                                   | push your assignment to git before class begin (2:30pm)                                                                                                             |
-| 2024-11-22 (Friday)    | No class, discuss the training detailes with me at office hour |                                                                                                                                                                     |
-| 2024-12-04 (Wednesday) | Poster Due                                                     | I will provide some suggestions. So you still have one week to refine it.                                                                                           |
 
 ## Prerequisites
 
@@ -174,13 +174,15 @@ You are expected to attend every class. You may be excused only for college-sanc
 
 No late work will be accepted without prior permission. If you contact me at least one business day before the due date (unless faced with an emergency) with appropriate requests for an extension and/or makeup assignments, you will be given additional time to make up late assignments equal to the time lost due to the unforeseen circumstance.
 
-**Any unexcused late (within 24 hours) will result 10% of score deduction for the assignment. For example, your raw assignment's score is 89, because of the late, the score will drop to 89 * 0.9 = 80.1. If you submit your assignment late more than 24 hours, I will not accept it, the score will be 0.**
+**Any unexcused late (within 24 hours) will result 10% of score deduction for the assignment. For example, your raw assignment's score is 89, because of the late, the score will drop to $ 89 \times 0.9 = 80.1$. If you submit your assignment late more than 24 hours, I will not accept it, the score will be 0.**
 
 ## Seeking Help
 
 ### Accommodations
 
 If you believe you may need accommodation for a disability, contact me privately within the first two weeks of the semester to discuss your specific needs. If you have not already done so, please contact Allen Harrison, Assistant Dean of Students for International Students and Accessibility, at 315-859-4021, or via email at aharriso@hamilton.edu. He is responsible for determining reasonable and appropriate accommodations for students with disabilities on a case-by-case basis. 
+
+***Let me know if you need any kind of accommodations before  2024-09-06 (Friday).***
 
 ### Mental Health and Wellness
 

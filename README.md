@@ -91,7 +91,7 @@ If you have any financial difficulties in purchasing GPU services, **TALK TO ME 
 
 You should bring a laptop to lectures, we will live code every class. If you are unable to do this, let us know. You should not use a phone or any similar device during lectures. If you take notes on a tablet, then you should not be typing on it during class, but only writing (e.g. with a stylus) unless you require accommodation for a disability. Tablets should be kept flat on the desk and should not be propped up unless you require accomodation for a disability. If you would like to discuss this restriction, you are always welcome to come talk to me about it.
 
-At most lectures, we will have mini labs (live coding). You can only use your laptop for coding at mini lab time. You can't use the computer for anything unrelated to the course content. For example, I found twice that if you use the computer for something unrelated to the course, you will lose 10% of your final grade.
+At most lectures, we will have mini labs (live coding). **You can only use your laptop for coding at mini lab time. You can't use the computer for anything unrelated to the course content. For example, I found twice that if you use the computer for something unrelated (facebook, youtube, game,...) to the course, you will lose 10% of your final grade.**
 
 If you final score is 90, because of using labtop for unrelated to the course content twice. Your score will drop to $90 \times 0.9 =81$.
 

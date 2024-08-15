@@ -184,7 +184,7 @@ No late work will be accepted without prior permission. If you contact me at lea
 
 If you believe you may need accommodation for a disability, contact me privately within the first two weeks of the semester to discuss your specific needs. If you have not already done so, please contact Allen Harrison, Assistant Dean of Students for International Students and Accessibility, at 315-859-4021, or via email at aharriso@hamilton.edu. He is responsible for determining reasonable and appropriate accommodations for students with disabilities on a case-by-case basis. 
 
-***Let me know if you need any kind of accommodations before  2024-09-06 (Friday).***
+***Let me know if you need any kind of accommodations via email before 2024-09-06 (Friday).***
 
 ### Mental Health and Wellness
 

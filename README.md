@@ -4,16 +4,16 @@ This is the home page for Hamilton College CPSCI-307: Deep Learning. Be sure you
 
 ## Lecture Details
 
-**Lecture time**: Monday, Wednesday 2:30 PM - 3:45 PM at Christina A. Johnson Hall (CJ Hall) 305.
+**Lecture time**: Monday, Wednesday 2:30 PM - 3:45 PM at Christian A. Johnson Hall (CJ) 305.
 
 **Office Hours**: Monday, Wednesday 1:15 PM - 2:15 PM, Tuesday 10:00 AM - 11:00 AM, Thursday 10:00 AM - 12:00 PM or by appointment via email. You can meet me at my office (SCCT 2016) or via Zoom if needed. I encourage you to come to office hours if you have any questions or need help with your assignments, projects, or exam.
 
 **Email**: schen3@hamilton.edu
 Usually, I will respond to emails within 24 hours. 
 
-## Course diescription
+## Course Description
 
-This course discusses deep learning, covering foundational machine learning principles (loss functions, bias-variance trade-off, and optimization) and advanced models (Multilayer Perceptron, Convolutional Neural Networks, Recurrent Neural Networks, Transformers) and thier allications. The course is project-based, emphasizing the application of these techniques to real-world datasets using the deep learning framework PyTorch.
+This course discusses deep learning, covering foundational machine learning principles (loss functions, bias-variance trade-off, and optimization) and advanced models (Convolutional Neural Networks, Recurrent Neural Networks, Transformers) and their applications. The course is project-based, emphasizing the application of these techniques to real-world datasets using the deep learning framework PyTorch.
 
 ## Learning Objectives
 
@@ -31,25 +31,27 @@ After this class, you should be able to:
 
 ### Important Date and schedule
 
-| Date                   | Due                                                                   | Note                                                                                                                                                                 |
-| ---------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024-09-02 (Monday)    |                                                                       | Release Assignmen 0                                                                                                                                                  |
-| 2024-09-09 (Monday)    | Assignment 0                                                          |                                                                                                                                                                      |
-| 2024-09-16 (Monday)    |                                                                       | Release Assignment 1                                                                                                                                                 |
-| 2024-09-23 (Monday)    | Proposal due                                                          | Send your proposal to me before class begin (2:30pm)                                                                                                                 |
-| 2024-09-27 (Friday)    | No class, discuss your proposal with me at one of office hour         |                                                                                                                                                                      |
-| 2024-09-30 (Monday)    | Assignment 1                                                          | Push your assignment to git before class begin (2:30 pm)                                                                                                             |
-| 2024-10-07 (Monday)    |                                                                       | Release Assignment 2                                                                                                                                                 |
-| 2024-10-11 (Friday)    | No class,  disscuss data plan with at one of office hour.             |                                                                                                                                                                      |
-| 2024-10-16 (Wednesday) | In-class exam (75 mins)                                               |                                                                                                                                                                      |
-| 2024-10-21 (Monday)    | Data collection report due                                            | 1. You do not need to have all data ready, but you should have a solid plan and some data at this time point. <br/>2. Send your data collection report to me before class (2:30pm) |
-| 2024-10-23 (Wednesday) | Assignment 2                                                          | 1. Push your assignment to git repo before class begin (2:30pm) <br/>2. Release Assignment 3                                                                         |
-| 2024-11-04 (Monday)    |                                                                       | Discuss your model buiding detials with me at office hour                                                                                                            |
-| 2024-11-06 (Wednesday) | Assignment 3                                                          | Push your assignment to git repo before class (2:30pm)                                                                                                               |
-| 2024-11-22 (Friday)    | No class, discuss the training detailes with me at one of office hour |                                                                                                                                                                      |
-| 2024-12-04 (Wednesday) | Poster Due                                                            | I will provide you some suggestions. So you still have one week to refine it.                                                                                        |
+| Date                   | Due                                                                                                                                                                                                                                                                                                              | Note                                                                                                                                                                                 |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024-09-02 (Monday)    |                                                                                                                                                                                                                                                                                                                  | Release Assignment 0                                                                                                                                                                 |
+| 2024-09-09 (Monday)    | Assignment 0                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                      |
+| 2024-09-16 (Monday)    |                                                                                                                                                                                                                                                                                                                  | 1. Release Assignment 1<br/>2. Start to work on your proposal                                                                                                                        |
+| 2024-09-23 (Monday)    |                                                                                                                                                                                                                                                                                                                  | Email your proposal to me before class (2:30 pm)                                                                                                                                     |
+| 2024-09-27 (Friday)    | You should discuss your proposal with me at any office hour this week. I'm offering an extra hour of office hour this Friday (2024-09-27) from 11 am to 12 noon. If you don't discuss your proposal with me before the extra office hour is over. Then you will lose points for this discussion.                 |                                                                                                                                                                                      |
+| 2024-09-30 (Monday)    | Assignment 1                                                                                                                                                                                                                                                                                                     | 1. Push your assignment to git before class (2:30 pm) <br/>2. It's time to think about data plan                                                                                     |
+| 2024-10-07 (Monday)    | Proposal due                                                                                                                                                                                                                                                                                                     | Release Assignment 2                                                                                                                                                                 |
+| 2024-10-11 (Friday)    | You should discuss your data plan with me at any office hour this week. I'm offering an extra hour of office hour this Friday (2024-10-11) from 11 am to 12 noon. If you don't discuss your data plan with me before the extra office hour is over. Then you will lose points for this discussion.               |                                                                                                                                                                                      |
+| 2024-10-16 (Wednesday) | In-class exam (75 mins)                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                      |
+| 2024-10-21 (Monday)    | Data collection report due                                                                                                                                                                                                                                                                                       | 1. You do not need to have all data ready, but you should have a solid plan and some data at this time point. <br/>2. Email your data collection report to me before class (2:30 pm) |
+| 2024-10-23 (Wednesday) | Assignment 2                                                                                                                                                                                                                                                                                                     | 1. Push your assignment to git repo before class (2:30 pm) <br/>2. Release Assignment 3                                                                                              |
+| 2024-11-04 (Monday)    |                                                                                                                                                                                                                                                                                                                  | Discuss your model building details with me at office hour                                                                                                                           |
+| 2024-11-06 (Wednesday) | Assignment 3                                                                                                                                                                                                                                                                                                     | Push your assignment to git repo before class (2:30pm)                                                                                                                               |
+| 2024-11-22 (Friday)    | You should discuss your training details with me at any office hour this week. I'm offering an extra hour of office hour this Friday (2024-10-11) from 11 am to 12 noon. If you don't discuss your training details with me before the extra office hour is over. Then you will lose points for this discussion. |                                                                                                                                                                                      |
+| 2024-12-04 (Wednesday) | Poster Due                                                                                                                                                                                                                                                                                                       | I will provide you feedback. So you still have one week to refine it.                                                                                                                |
+| TBD                    | Poster presentation                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                      |
+| 2024-12-13             | Push your project folder (includes all required codes, files, plots) to git repo before 12:00 PM                                                                                                                                                                                                                 |                                                                                                                                                                                      |
 
-Here is the deatiled class [schedule](https://docs.google.com/spreadsheets/d/1zrNzYpYoMB3QBeflDs98WeM7FcPjadZg7CCuY6cjhQg/edit?usp=sharing) and plan. The table will keep updating.
+Here is the detailed class [schedule](https://docs.google.com/spreadsheets/d/1zrNzYpYoMB3QBeflDs98WeM7FcPjadZg7CCuY6cjhQg/edit?usp=sharing) and plan. The table will keep updating.
 
 ## Prerequisites
 
@@ -77,41 +79,41 @@ If you do not have a GPU, some online platforms can be considered. Here are some
 2. Amazon SageMaker
 3. Kaggle GPU
 
-All these products provide different plans to choose from based on how complex a model you want to work with. In this class, we will use Google Colab for demonstration. Feel free to choose other online products if you think they fit you better, but you need to figure out the settings and enviroments by yourself.
+All these products provide different plans to choose from based on how complex a model you want to work with. In this class, we will use **Google Colab** for demonstration. Feel free to choose other online products if you think they fit you better, but you need to figure out the settings and environments by yourself.
 
-You will need a GPU until Assignment 2.
+You will need a GPU starting at Assignment 2.
 
 ### Fee
 
 Colab provides free GPU resources (with very limited GPU hours), but you also can pay for more resources. You can sign up for a paid account at [Google Colab](https://colab.research.google.com/signup). 
 
-If you have any financial difficulties in purchasing GPU services, **TALK TO ME OR THE DEPARTMENT**. We are ready to help!
+If you have any financial difficulties in purchasing GPU services, **TALK TO THE DEPARTMENT or ME**. We are ready to help!
 
-### Labtops and Electronics
+### Laptops and Electronics
 
-You should bring a laptop to lectures, we will live code every class. If you are unable to do this, let us know. You should not use a phone or any similar device during lectures. If you take notes on a tablet, then you should not be typing on it during class, but only writing (e.g. with a stylus) unless you require accommodation for a disability. Tablets should be kept flat on the desk and should not be propped up unless you require accomodation for a disability. If you would like to discuss this restriction, you are always welcome to come talk to me about it.
+You should bring a laptop to lectures, we will live code every class. If you are unable to do this, let me know. You should not use a phone or any similar device during lectures. If you take notes on a tablet, then you should not be typing on it during class, but only writing (e.g. with a stylus) unless you require accommodation for a disability. Tablets should be kept flat on the desk and should not be propped up unless you require accommodation for a disability. If you would like to discuss this restriction, you are always welcome to come talk to me about it.
 
-At most lectures, we will have mini labs (live coding). **You can only use your laptop for coding at mini lab time. You can't use the computer for anything unrelated to the course content. For example, I found twice that if you use the computer for something unrelated (facebook, youtube, game,...) to the course, you will lose 10% of your final grade.**
+During most lectures, we will have mini labs (live coding). **You can only use your laptop  for coding at mini lab time. You can't use the computer for anything unrelated to the course content. For example, I found twice that if you use the computer for something unrelated (facebook, youtube, game,...) to the course, you will lose 5% of your final grade.**
 
-If you final score is 90, because of using labtop for unrelated to the course content twice. Your score will drop to $90 \times 0.9 =81$.
+If your final score is 90, because of using laptop for unrelated to the course content twice. Your score will drop to $90 \times 0.95 =85.5$.
 
 ## Academic Integrity & Collaboration
 
 You should work on all assignments by yourself. You can discuss your assignments with me, your classmates, your friends, or other professors, but you are **NOT** allowed to use others' code or any code from the internet.
 
-You can work on the final project on your own or team up with up to 3 students. If you choose to work in a team, your team needs to report each member's contribution in the final report. Here is an [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/contrbution.md). You should include this file in your own project.
+You can work on the final project on your own or team up with up to 3 students. If you choose to work in a team, your team needs to report each member's contribution in the final report. I encourage all team members to join the entire project pipeline as much as possible, instead of each team member only being in charge of one part of the project. Here is an [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/contrbution.md). You should include this file in your own project, otherwise, each team member will lose 5% of project score. For example,
 
 ### AI Policy
 
-### Assigment
+### Assignments
 
-You are **NOT** allowed to use any kind of generative AI tools (online or offline) for your assignments. Any code from generative AI tools (online or offline) or the internet will be considered cheating.
+You are **NOT** allowed to use any kind of generative AI tools (online or offline) for your assignments. Any code from generative AI tools (online or offline) will be considered cheating.
 
 ### Final Project
 
-You are **ENCOURAGED** to use AI tools for your final project, but you **NEED** to provide your prompt history to me. Here is an [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/prompt_history_example.pdf).
+You are **ENCOURAGED** to use AI tools for your final project, but you **NEED** to provide your prompt history to me, **otherwise you will lose 5%** of your final project score. Here is a prompt history [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/prompt_history_example.pdf).
 
-<span style="color: red;">**!!!YOU ARE ONLY ALLOWED TO USE AI TOOLS IN THIS CLASS!!! For other class, follow the academic integrity policy of that class or ask your professor.**</span>
+<span style="color: red;">**THIS POLICY ONLY  APPLIES TO THIS CLASS!!! For other classes, follow the academic integrity policy of that class or ask your professor.**</span>
 
 ## Grading
 
@@ -139,16 +141,20 @@ Your grade will be comprised of the following weighted components:
       
       2. You need to report your learning curve through [Weights & Biases](https://wandb.ai/site). We will learn how to use this tool in class.
       
-      3. Your model's performance should be evaluated by suitable metrics and achieve reasonable performance. We will learn what constitutes reasonable performance in class.
+      3. Your model's performance should be evaluated by suitable metrics and achieve reasonable performance.
+         
+         1. The learning curve should show your model was learning, with no obvious overfitting or underfitting pattern.
+         
+         2. The model's performance should better than random guessing. 
    
-   5. Poster (15%): We plan to have a department-wide poster session. The poster should cover the following parts:
+   5. Poster (10%): We plan to have a department-wide poster session. The poster should cover the following parts:
       
       1. Introduction of the question
       2. Details of the deep learning model's design
       3. Results and analysis
       4. Conclusion and future work
 
-4. **Participation**: If you have three unexcused absences. You will lose 5% of your final grade. For example, you final score is 90, but you missed three class, then you final score is $90 \times 0.95 = 85.5$
+4. **Participation**: If you have three unexcused absences. You will lose 5% of your final grade. For example, your final score is 90, but you missed three class, then your final score is $90 \times 0.95 = 85.5$
 
 You final score will be weighted sum of all three parts. For example, Assignments: 89, exam: 80, project: 95, then final score is $89 \times 0.3 + 80 \times 0.1 + 95 \times 0.6 = 91.7$.
 
@@ -156,25 +162,24 @@ You final score will convert to letter grade by following table:
 
 | Score | Letter Grade |
 | ----- | ------------ |
-| >=97  | A+           |
-| 93~96 | A            |
-| 90~92 | A-           |
+| >=93  | A            |
+| 90~93 | A-           |
 | 87~89 | B+           |
-| 83~86 | B            |
-| 80~82 | B-           |
+| 84~86 | B            |
+| 80~83 | B-           |
 | 77~79 | C+           |
-| 73~76 | C            |
-| 70~72 | C-           |
+| 74~76 | C            |
+| 70~73 | C-           |
 | 67~69 | D+           |
-| 63~66 | D            |
-| 60~62 | D-           |
+| 64~66 | D            |
+| 60~63 | D-           |
 | <60   | F            |
 
 ## Attendance and Late Policy
 
 You are expected to attend every class. You may be excused only for college-sanctioned activities, and you must let me know about such absences as soon as you are notified. This includes missing class for religious, athletic, or academic conflicts. If you are sick or have an important appointment at the health or counseling center, please email me before the class and take care of yourself. If you will be absent for a significant period, please contact me to work out a way to catch up. If you must miss a class for a college-sanctioned activity, you must notify me prior to the class in question via email.
 
-No late work will be accepted without prior permission. If you contact me at least one business day before the due date (unless faced with an emergency) with appropriate requests for an extension and/or makeup assignments, you will be given additional time to make up late assignments equal to the time lost due to the unforeseen circumstance.
+No late work will be accepted without prior permission. If you contact me at least one day before the due date (unless faced with an emergency) with appropriate requests for an extension and/or makeup assignments, you will be given additional time to make up late assignments equal to the time lost due to the unforeseen circumstance.
 
 **Any unexcused late (within 24 hours) will result 10% of score deduction for the assignment. For example, your raw assignment's score is 89, because of the late, the score will drop to $ 89 \times 0.9 = 80.1$. If you submit your assignment late more than 24 hours, I will not accept it, the score will be 0.**
 

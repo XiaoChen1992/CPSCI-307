@@ -29,7 +29,7 @@ After this class, you should be able to:
 2. Build a deep learning pipeline to solve the problem
 3. Correctly evaluate your deep learning model's performance
 
-### Inportant Date and schedule
+### Important Date and schedule
 
 | Date                   | Due                                                                   | Note                                                                                                                                                                 |
 | ---------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

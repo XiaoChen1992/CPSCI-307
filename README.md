@@ -1,4 +1,4 @@
-# CPSCI-307
+# 2024 Fall CPSCI-307
 
 This is the home page for Hamilton College CPSCI-307: Deep Learning. Be sure you ***READ THIS PAGE CAREFULLY!!!***
 

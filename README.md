@@ -6,7 +6,7 @@ This is the home page for Hamilton College CPSCI-307: Deep Learning. Be sure to 
 
 **Lecture time**: Monday and Wednesday 2:30 PM - 3:45 PM at Christian A. Johnson Hall (CJ) 305.
 
-**Office Hours**: Monday and Wednesday 1:15 PM - 2:15 PM, Tuesday 10:00 AM - 11:00 AM, Thursday 10:00 AM - 12:00 PM or by appointment via email. You can meet me at my office (SCCT 2016) or via Zoom if needed. I encourage you to come to office hours if you have any questions or need help with your assignments, projects, or exam.
+**Office Hours**: Monday and Wednesday 1:15 PM - 2:15 PM, Tuesday 10:00 AM - 11:00 AM, Friday 11:00 AM - noon or by appointment via email. You can meet me at my office (SCCT 2016) or via Zoom if needed. I encourage you to come to office hours if you have any questions or need help with your assignments, projects, or exam.
 
 **Email**: schen3@hamilton.edu
 I usually respond to emails within 24 hours. 
@@ -47,8 +47,6 @@ After this class, you should be able to:
 | 2024-12-04 (Wednesday) | Poster Due                                                                                                                                      | I will provide you feedback. So you still have one week to refine it.                                                                                                                                                               |
 | TBD                    | Poster presentation                                                                                                                             |                                                                                                                                                                                                                                     |
 | 2024-12-13 (Friday)    | Push project folder (includes all required codes, files, plots, etc.) to git repo before 12:00 PM                                               |                                                                                                                                                                                                                                     |
-
-
 
 ## Prerequisites
 
@@ -190,8 +188,6 @@ If you believe you may need accommodation for a disability, contact me privately
 ### Mental Health and Wellness
 
 If you are feeling isolated, depressed, sad, anxious, angry, or overwhelmed, you aren’t alone: we all struggle sometimes. Don’t stay silent! Talk to a trusted confidant: a friend, a family member, a professor you trust. The counseling center offers completely confidential and highly professional services and can be contacted at 315-859-4340. If this seems like a difficult step, contact me. We can talk and call or walk to the counseling center together.
-
-
 
 ## Learning topics
 

@@ -13,6 +13,8 @@ I usually respond to emails within 24 hours.
 
 **Gradescope**: https://www.gradescope.com/courses, Entry Code: 8KXJGY
 
+Edsteam: [Ed Discussion](https://edstem.org/us/courses/61325/discussion/)
+
 
 
 ## Course Description

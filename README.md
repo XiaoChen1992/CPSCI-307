@@ -142,7 +142,7 @@ Your grade will be comprised of the following weighted components:
          
          1. The learning curve should show your model was learning, with no obvious overfitting or underfitting pattern.
          
-         2. The model's performnace is in a reasonable level.
+         2. 
          
          3. The model's test data does not have a leaking issue. 
    

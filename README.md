@@ -59,7 +59,7 @@ After this class, you should be able to:
 
 ### Textbook
 
-We will use [Dive into Deep Learning](https://d2l.ai/) as our textbook. Additionally, some classic machine/deep learning papers will be included in the reading list.
+We will use [Dive into Deep Learning](https://d2l.ai/) as our textbook. Additionally, some classic machine/deep learning papers will be included in the reading list. I will assign reading list after each class.
 
 The following two books are also worth reading if you want to explore more about the math behind machine/deep learning, but they are not required for this class:
 
@@ -142,9 +142,7 @@ Your grade will be comprised of the following weighted components:
          
          1. The learning curve should show your model was learning, with no obvious overfitting or underfitting pattern.
          
-         2. 
-         
-         3. The model's test data does not have a leaking issue. 
+         2. The model's test data does not have a leaking issue. 
    
    5. Poster (10%): We plan to have a department-wide poster session. The poster should cover the following parts:
       
@@ -200,20 +198,20 @@ If you are feeling isolated, depressed, sad, anxious, angry, or overwhelmed, you
 The course calendar is intended to be flexible enough to accommodate our class’s particular interests and needs while providing overall guidance and structure. The instructor may adjust topics/assignments as the course progresses. The instructor reserves the right to add or substitute additional readings if relevant materials become
 available during the semester that illustrate key course concepts.
 
-| Date                           | Learning contents                                                                                                                               | Reading |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| 2024-09-02 (Monday)<br>Week 2  | 1. Introduction<br>2. Linear algebra + calculus<br>3. Linear regression<br>4. Basic optimization                                                |         |
-| 2024-09-09 (Monday)<br>Week 3  | 1. Linear classification<br>2. loss function<br>3. softmax<br>4. MLP<br>5. activation function<br>6. Bais and variance trade-off, model fitting |         |
-| 2024-09-16 (Monday)<br>Week 4  | 1. Weight decay<br>2. drop out<br>3. Stochastic Gradient Descent<br>4. Momentum, AdaGrad, Adam<br>5. Learning rate schedules                    |         |
-| 2024-09-23 (Monday)<br>Week 5  | 1. Initialization<br>2. Build our first model on House Prices data<br>3. Convolution layer/ Dilated Convolution layer                           |         |
-| 2024-09-30 (Monday)<br>Week 6  | 1. Polling layer <br>2. AlexNet<br>3. VGG<br>4. NiN<br>5. GoogleNet                                                                             |         |
-| 2024-10-07 (Monday)<br>Week 7  | 1. Batch Normalization<br>2. More drop out<br>3. ResNet                                                                                         |         |
-| 2024-10-14 (Monday)<br>Week 8  | 1. Build a CNN for image classificationtask<br>2. pytorch lightning<br>3. Weights&biases                                                        |         |
-| 2024-10-21 (Monday)<br>Week 9  | Guest Talk<br>1. Data augmentation<br>2. Fine tune                                                                                              |         |
-| 2024-10-28 (Monday)<br>Week 10 | Object Detection and Image Segmentation                                                                                                         |         |
-| 2024-11-04 (Monday)<br>Week 11 | 1. Review probability<br>2. Word vector and embeddings<br>3. Sequential model                                                                   |         |
-| 2024-11-11 (Monday)<br>Week 12 | 1. GRU<br>2. LSTM/bi-LSTM<br>3.Seq2seq                                                                                                          |         |
-| 2024-11-18 (Monday)<br>Week 13 | 1. Word embedding<br>2. Attention, axial attention, channel attention                                                                           |         |
-| Thanksgiving                   | No Class                                                                                                                                        |         |
-| 2024-12-02 (Monday)<br>Week 15 | 1. self-attention<br>2. Transformer<br>3. ViT (vision transformer)<br>                                                                          |         |
-| 2024-12-09 (Monday)<br>Week 16 | Introduction to diffusion                                                                                                                       |         |
+| Date                           | Learning contents                                                                                                                               |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-02 (Monday)<br>Week 2  | 1. Introduction<br>2. Linear algebra + calculus<br>3. Linear regression<br>4. Basic optimization                                                |
+| 2024-09-09 (Monday)<br>Week 3  | 1. Linear classification<br>2. loss function<br>3. softmax<br>4. MLP<br>5. activation function<br>6. Bais and variance trade-off, model fitting |
+| 2024-09-16 (Monday)<br>Week 4  | 1. Weight decay<br>2. drop out<br>3. Stochastic Gradient Descent<br>4. Momentum, AdaGrad, Adam<br>5. Learning rate schedules                    |
+| 2024-09-23 (Monday)<br>Week 5  | 1. Initialization<br>2. Build our first model on House Prices data<br>3. Convolution layer/ Dilated Convolution layer                           |
+| 2024-09-30 (Monday)<br>Week 6  | 1. Polling layer <br>2. AlexNet<br>3. VGG<br>4. NiN<br>5. GoogleNet                                                                             |
+| 2024-10-07 (Monday)<br>Week 7  | 1. Batch Normalization<br>2. More drop out<br>3. ResNet                                                                                         |
+| 2024-10-14 (Monday)<br>Week 8  | 1. Build a CNN for image classificationtask<br>2. pytorch lightning<br>3. Weights&biases                                                        |
+| 2024-10-21 (Monday)<br>Week 9  | Guest Talk<br>1. Data augmentation<br>2. Fine tune                                                                                              |
+| 2024-10-28 (Monday)<br>Week 10 | Object Detection and Image Segmentation                                                                                                         |
+| 2024-11-04 (Monday)<br>Week 11 | 1. Review probability<br>2. Word vector and embeddings<br>3. Sequential model                                                                   |
+| 2024-11-11 (Monday)<br>Week 12 | 1. GRU<br>2. LSTM/bi-LSTM<br>3.Seq2seq                                                                                                          |
+| 2024-11-18 (Monday)<br>Week 13 | 1. Word embedding<br>2. Attention, axial attention, channel attention                                                                           |
+| Thanksgiving                   | No Class                                                                                                                                        |
+| 2024-12-02 (Monday)<br>Week 15 | 1. self-attention<br>2. Transformer<br>3. ViT (vision transformer)<br>                                                                          |
+| 2024-12-09 (Monday)<br>Week 16 | Introduction to diffusion                                                                                                                       |

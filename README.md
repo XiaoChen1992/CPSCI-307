@@ -11,6 +11,10 @@ This is the home page for Hamilton College CPSCI-307: Deep Learning. Be sure to 
 **Email**: schen3@hamilton.edu
 I usually respond to emails within 24 hours. 
 
+**Gradescope**: https://www.gradescope.com/courses, Entry Code: 8KXJGY
+
+
+
 ## Course Description
 
 This course discusses deep learning, covering foundational machine learning principles (loss functions, bias-variance trade-off, and optimization) and advanced models (Convolutional Neural Networks, Recurrent Neural Networks, Transformers) and their applications. The course is project-based, emphasizing the application of these techniques to real-world datasets using the deep learning framework PyTorch.
@@ -36,7 +40,7 @@ After this class, you should be able to:
 | 2024-09-02 (Monday)    |                                                                                                                                                 | Release Assignment 0                                                                                                                                                                                                           |
 | 2024-09-09 (Monday)    | Assignment 0                                                                                                                                    |                                                                                                                                                                                                                                |
 | 2024-09-16 (Monday)    |                                                                                                                                                 | 1. Release Assignment 1 <br/>2. Start to work on proposal                                                                                                                                                                      |
-| 2024-09-23 (Monday)    | Discuss proposal with me at any office hour this week. If you don't share your proposal with me, points will be reduced.                        | Email proposal to me before class (2:30 pm)                                                                                                                                                                                    |
+| 2024-09-23 (Monday)    | Discuss proposal with me at any office hour this week. If you don't share your proposal with me, points will be reduced.                        | Submit proposal to me by Edsteam before class (2:30 pm)                                                                                                                                                                        |
 | 2024-09-30 (Monday)    | Assignment 1                                                                                                                                    | 1. Push assignment 1 to git before class (2:30 pm) <br/>2. Start to work on data plan                                                                                                                                          |
 | 2024-10-07 (Monday)    | 1. Proposal due <br/>2. Discuss data plan with me at any office hour this week. If you don't share your data plan with, points will be reduced. | Release Assignment 2                                                                                                                                                                                                           |
 | 2024-10-16 (Wednesday) | Exam (90 mins) <br\>Time: 7:00 - 8:30 PM <br\>Location: TBD                                                                                     |                                                                                                                                                                                                                                |
@@ -202,7 +206,7 @@ available during the semester that illustrate key course concepts.
 | 2024-09-23 (Monday)<br>Week 5  | 1. Initialization<br>2. Build our first model on House Prices data<br>3. Convolution layer/ Dilated Convolution layer                           |
 | 2024-09-30 (Monday)<br>Week 6  | 1. Polling layer <br>2. AlexNet<br>3. VGG<br>4. NiN<br>5. GoogleNet                                                                             |
 | 2024-10-07 (Monday)<br>Week 7  | 1. Batch Normalization<br>2. More drop out<br>3. ResNet                                                                                         |
-| 2024-10-14 (Monday)<br>Week 8  | 1. Build a CNN for image classification task<br>2. pytorch lightning<br>3. Weights&biases                                                       |
+| 2024-10-14 (Monday)<br>Week 8  | 1. Build a CNN for image classification task<br>2. pytorch lightning<br>3. Weights & Biases                                                     |
 | 2024-10-21 (Monday)<br>Week 9  | Guest Talk<br>1. Data augmentation<br>2. Fine tune                                                                                              |
 | 2024-10-28 (Monday)<br>Week 10 | Object Detection and Image Segmentation                                                                                                         |
 | 2024-11-04 (Monday)<br>Week 11 | 1. Review probability<br>2. Word vector and embeddings<br>3. Sequential model                                                                   |

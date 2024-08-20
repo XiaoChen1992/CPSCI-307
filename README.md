@@ -50,7 +50,7 @@ After this class, you should be able to:
 ## Prerequisites
 
 1. This class heavily relies on Python. You should be comfortable using Python for programming or be familiar with other programming languages and able to learn and use Python quickly.
-2. Be familar with the basic linear algebra (vector, matrix, matrix operations, ...) is required.
+2. Be familiar with the basic linear algebra (vector, matrix, matrix operations, ...) is required.
 
 ## Course Materials
 
@@ -106,7 +106,7 @@ You are **ENCOURAGED** to use AI tools for your final project, but you **NEED** 
 
 Your final score will be comprised of the following weighted components:
 
-1. **Assignments (30%)**: Three assignments, each assignment contributes 10% of your final score.  The assignments goal is to let you building, training, and testing different types of neural network by PyTorch.
+1. **Assignments (30%)**: Three assignments, each assignment contributes 10% of your final score.  The assignments' goal is to let you building, training, and testing different types of neural network by PyTorch.
 
 2. **Midterm (10%)**: One midterm exam (no notes) at Week 7. The exam's goal is to ensure you understand the basic concepts of machine/deep learning.  
 
@@ -114,7 +114,7 @@ Your final score will be comprised of the following weighted components:
    
    1. Proposal (10%): Create a plan of the final project, up to 2 pages ([IEEE - Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html))  
    
-   2. Data (10%): Report how you collected your own data for the final project. Include the following parts: a. Where is the data source? b. How did you collect the data? c. How did you preprocess the data? The report is up to 1 pages (IEEE format). You also need to provide some data example  to me.
+   2. Data (10%): Report how you collected your own data for the final project. Include the following parts: a. Where is the data source? b. How did you collect the data? c. How did you preprocess the data? The report is up to 1 page (IEEE format). You also need to provide some data examples to me.
    
    3. Code (15%): Upload your project's code to the gradescope. Your code should be well-organized and easy to read. Check this [example](https://github.com/XiaoChen1992/CPSCI-307/tree/main/project_example) to organize your code. If you do not follow the example's style, you will lose 5% of your final project score. For example, if you final project's score is 90, because of missing prompt history, the score will drop to $90\times0.95=85.5$
    
@@ -196,9 +196,9 @@ available during the semester that illustrate key course concepts.
 | 2024-09-02 (Monday)<br>Week 2  | 1. Introduction<br>2. Linear algebra + calculus<br>3. Linear regression<br>4. Basic optimization                                                | Work on Assignment 0                                                                                                                                                                                                                |
 | 2024-09-09 (Monday)<br>Week 3  | 1. Linear classification<br>2. loss function<br>3. softmax<br>4. MLP<br>5. activation function<br>6. Bais and variance trade-off, model fitting | Due: Assignment 0 (2024-09-09), bring assignment 0 to class                                                                                                                                                                         |
 | 2024-09-16 (Monday)<br>Week 4  | 1. Weight decay<br>2. drop out<br>3. Stochastic Gradient Descent<br>4. Momentum, AdaGrad, Adam<br>5. Learning rate schedules                    | 1. Work on Assignment 1 (2024-09-16)<br>2. Start to work on final project's proposal                                                                                                                                                |
-| 2024-09-23 (Monday)<br>Week 5  | 1. Initialization<br>2. Build our first model on House Prices data<br>3. Convolution layer/ Dilated Convolution layer                           | Due: Disscuss final project proposal with me at any office hour this week.                                                                                                                                                          |
+| 2024-09-23 (Monday)<br>Week 5  | 1. Initialization<br>2. Build our first model on House Prices data<br>3. Convolution layer/ Dilated Convolution layer                           | Due: Discuess final project proposal with me at any office hour this week.                                                                                                                                                          |
 | 2024-09-30 (Monday)<br>Week 6  | 1. Polling layer <br>2. AlexNet<br>3. VGG<br>4. NiN<br>5. GoogleNet                                                                             | Due: Submit assignment 1 to gradescope before class (2:30 PM)<br>1. Start to work on data plan                                                                                                                                      |
-| 2024-10-07 (Monday)<br>Week 7  | 1. Batch Normalization<br>2. More drop out<br>3. ResNet                                                                                         | Due: Submit final project proposal to gradescope before class (2:30 PM) <br>1. Disscuss data plan with me at any office hour this week. <br>2. Wrok on Assignment 2 (2024-10-07)                                                    |
+| 2024-10-07 (Monday)<br>Week 7  | 1. Batch Normalization<br>2. More drop out<br>3. ResNet                                                                                         | Due: Submit final project proposal to gradescope before class (2:30 PM) <br>1. Discuses data plan with me at any office hour this week. <br>2. Work on Assignment 2 (2024-10-07)                                                    |
 | 2024-10-14 (Monday)<br>Week 8  | 1. Build a CNN for image classification task<br>2. pytorch lightning<br>3. Weights & Biases                                                     | Midterm: 2024-10-16 (Wednesday),  7:00 PM - 8:30 PM                                                                                                                                                                                 |
 | 2024-10-21 (Monday)<br>Week 9  | Guest Talk<br>1. Data augmentation<br>2. Fine tune                                                                                              | Due: Submit data collection report to gradescope before class (2:30 PM)<br>Due: Submit Assignment 2 to gradescope before 2024-10-23 2:30 PM<br>1. Start to work on model building and training<brbrork on Assignment 3 (2014-10-23) |
 | 2024-10-28 (Monday)<br>Week 10 | Object Detection and Image Segmentation                                                                                                         |                                                                                                                                                                                                                                     |

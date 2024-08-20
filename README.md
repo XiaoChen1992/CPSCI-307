@@ -76,10 +76,7 @@ After this class, you should be able to:
 
 **Required**: [Dive into Deep Learning](https://d2l.ai/) 
 
-**Recommended**:
-
-1. [Deep Learning](https://www.deeplearningbook.org/)
-2. [The Elements of Statistical Learning (ESL)](https://hastie.su.domains/ElemStatLearn/)
+**Recommended**: [Deep Learning](https://www.deeplearningbook.org/)
 
 ### Environment Setup
 

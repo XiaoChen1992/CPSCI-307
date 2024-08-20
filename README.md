@@ -4,18 +4,29 @@ This is the home page for Hamilton College CPSCI-307: Deep Learning. Be sure to 
 
 ## Lecture Details
 
-**Lecture time**: Monday and Wednesday 2:30 PM - 3:45 PM at Christian A. Johnson Hall (CJ) 305.
+**Lecture time**: Monday and Wednesday 2:30 PM - 3:45 PM 
 
-**Office Hours**: Monday and Wednesday 1:15 PM - 2:15 PM, Tuesday 10:00 AM - 11:00 AM, Friday 11:00 AM - noon or by appointment via email. You can meet me at my office (SCCT 2016) or via Zoom if needed. I encourage you to come to office hours if you have any questions or need help with your assignments, projects, or exam.
+**Location**: Christian A. Johnson Hall (CJ) 305.
+
+**Office Hours**: 
+
+1. Monday 1:15 PM - 2:15 PM
+
+2. Tuesday 10:00 AM - 11:00 AM 
+
+3. Wednesday 1:15 PM - 2:!5 PM
+
+4. Friday 11:00 AM - noon 
+
+5. or by appointment via email. 
+
+You can meet me at my office (SCCT 2016) or via Zoom if needed. 
 
 **Email**: schen3@hamilton.edu
-I usually respond to emails within 24 hours. 
 
 **Gradescope**: https://www.gradescope.com/courses, Entry Code: 8KXJGY
 
-Edsteam: [Ed Discussion](https://edstem.org/us/courses/61325/discussion/)
-
-
+**Edsteam**: [Ed Discussion](https://edstem.org/us/courses/61325/discussion/)
 
 ## Course Description
 
@@ -57,15 +68,15 @@ After this class, you should be able to:
 ## Prerequisites
 
 1. This class heavily relies on Python. You should be comfortable using Python for programming or be familiar with other programming languages and able to learn and use Python quickly.
-2. Basic linear algebra background (vector, matrix, matrix operations, etc.) is required.
+2. Be familar with the basic linear algebra (vector, matrix, matrix operations, ...) is required.
 
 ## Course Materials
 
 ### Textbook
 
-We will use [Dive into Deep Learning](https://d2l.ai/) as our textbook. Additionally, some classic machine/deep learning papers will be included in the reading list. I will assign reading list after each class.
+**Required**: [Dive into Deep Learning](https://d2l.ai/) 
 
-The following two books are also worth reading if you want to explore more about the math behind machine/deep learning, but they are not required for this class:
+**Recommended**:
 
 1. [Deep Learning](https://www.deeplearningbook.org/)
 2. [The Elements of Statistical Learning (ESL)](https://hastie.su.domains/ElemStatLearn/)
@@ -76,25 +87,23 @@ We will use [PyTorch](https://pytorch.org/get-started/locally/) (version: Stable
 
 If you do not have a GPU, some online platforms can be considered. Here are some GPU notebook options:
 
-1. Google Colab
+1. Google Colab (default for this class)
 2. Amazon SageMaker
 3. Kaggle GPU
 
-All these products provide different plans to choose from based on how complex a model you want to work with. In this class, we will use **Google Colab** for demonstration. Feel free to choose other online products if you think they fit you better, but you need to figure out the settings and environments by yourself.
-
-You will need a GPU starting at Assignment 2.
+You will need a GPU for assignment 2, assignment 3 and final project.
 
 ### Fee
 
 Colab provides free GPU resources (with very limited GPU hours), but you also can pay for more resources. You can sign up for a paid account at [Google Colab](https://colab.research.google.com/signup). 
 
-If you have any financial difficulties in purchasing GPU services, **TALK TO THE DEPARTMENT or ME**. We are ready to help!
+If you have any financial difficulties in purchasing GPU services, **TALK TO ME**.
 
 ### Laptops and Electronics
 
 You should bring a laptop to lectures as we will live code in every class. If you are unable to do this, let me know. You should not use a phone or any similar device during lectures. If you take notes on a tablet, then you should not be typing on it during class, but only writing (e.g. with a stylus) unless you require accommodation for a disability. Tablets should be kept flat on the desk and should not be propped up unless you require accommodation for a disability. If you would like to discuss this restriction, you are always welcome to come talk to me about it.
 
-During most lectures, we will have mini labs (live coding). **You can only use your laptop  for coding at mini lab time. You can't use the computer for anything unrelated to the course content. For example, I found twice that if you use the computer for something unrelated (facebook, youtube, game,...) to the course, you will lose 5% of your final grade.**
+During most lectures, we will have mini labs (live coding). **You can only use your laptop  for coding at mini lab time. You can't use the computer for anything unrelated to the course content. For example, I found twice that if you use the computer for something unrelated (E.g.: facebook, youtube, game,...) to the course, you will lose 5% of your final grade.**
 
 If your final score is 90, because of using laptop for unrelated to the course content twice. Your score will drop to $90 \times 0.95 =85.5$.
 
@@ -102,35 +111,35 @@ If your final score is 90, because of using laptop for unrelated to the course c
 
 You should work on all assignments by yourself. You can discuss your assignments with me, your classmates, your friends, or other professors, but you are **NOT** allowed to use others' code or any code from the internet.
 
-You can work on the final project on your own or team up with up to 3 students. If you choose to work in a team, your team must report each member's contribution in the final report. I encourage all team members to join the entire project pipeline as much as possible, instead of each team member only being in charge of one part of the project. Here is an [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/contrbution.md). You should include this file in your own project, otherwise, each team member will lose 5% of project score. For example,
+You can work on the final project on your own or team up with up to 3 students. If you choose to work in a team, your team must report each member's contribution in the final report. I encourage all team members to join the entire project pipeline as much as possible, instead of each team member only being in charge of one part of the project. Here is an [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/contrbution.md). You should include this file in your own project, otherwise, each team member will lose 5% of project score. For example, if you final project's score is 90, because of missing file, the score will drop to $90\times0.95=85.5$
 
 ### AI Policy
 
 ### Assignments
 
-You are **NOT** allowed to use any generative AI tools (online or offline) for your assignments. Any code from generative AI tools (online or offline) will be considered cheating.
+You are **NOT** allowed to use any generative AI tools (online or offline) for your assignments. Any code from generative AI tools (online or offline) will be considered cheating and you will receive 0 points for the assignments.
 
 ### Final Project
 
-You are **ENCOURAGED** to use AI tools for your final project, but you **NEED** to provide your prompt history to me, **otherwise you will lose 5%** of your final project score. Here is a prompt history [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/prompt_history_example.pdf).
+You are **ENCOURAGED** to use AI tools for your final project, but you **NEED** to provide your prompt history to me, **otherwise you will lose 5%** of your final project score. Here is a prompt history [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/prompt_history_example.pdf). For example, if you final project's score is 90, because of missing prompt history, the score will drop to $90\times0.95=85.5$
 
 **THIS POLICY APPLIES ONLY TO THIS CLASS!!!** For other classes, follow the academic integrity policy of that class or ask your professor.
 
 ## Grading
 
-Your grade will be comprised of the following weighted components:
+Your final score will be comprised of the following weighted components:
 
-1. **Assignments (30%)**: We will have 3 assignments, with **two** weeks for each assignment. Each assignment contributes 10% of your final grade.  The assignments goal is to let you building, training, and test different types of neural network by PyTorch and PyTorch lightning.
+1. **Assignments (30%)**: Three assignments, each assignment contributes 10% of your final score.  The assignments goal is to let you building, training, and testing different types of neural network by PyTorch.
 
-2. **Midterms (10%)**: We will only have one exam (no notes) in Week 7. The exam's goal is to ensure you understand the basic concepts of machine/deep learning.  
+2. **Midterm (10%)**: One midterm (no notes) at Week 7. The exam's goal is to ensure you understand the basic concepts of machine/deep learning.  
 
-3. **Project (60%)**: The final project covers:
+3. **Final Project (60%)**: The final project covers:
    
-   1. Proposal (10%): Explain your plan for the final project, up to 2 pages  
+   1. Proposal (10%): Create plan of the final project, up to 2 pages ([IEEE - Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html))  
    
-   2. Data (10%): You should report how you collected your own data for the final project. Include the following parts: a. Where is the data source? b. How did you collect the data? c. How did you preprocess the data? The report is up to 1 pages.
+   2. Data (10%): Report how you collected your own data for the final project. Include the following parts: a. Where is the data source? b. How did you collect the data? c. How did you preprocess the data? The report is up to 1 pages (IEEE format).
    
-   3. Code (15%): You need to push your project's code to the class's GitHub repo. Your code should be well-organized and easy to read. Check this [example](https://github.com/XiaoChen1992/CPSCI-307/tree/main/project_example) to organize your code.
+   3. Code (15%): Upload your project's code to the gradescope. Your code should be well-organized and easy to read. Check this [example](https://github.com/XiaoChen1992/CPSCI-307/tree/main/project_example) to organize your code. If you do not follow the example's style, you will lose 5% of your final project score. For example, if you final project's score is 90, because of missing prompt history, the score will drop to $90\times0.95=85.5$
    
    4. Performance (15%):
       
@@ -140,7 +149,7 @@ Your grade will be comprised of the following weighted components:
          python inference.py --data /example/data1
          ```
       
-      2. You need to report your learning curve through [Weights & Biases](https://wandb.ai/site). We will learn how to use this tool in class.
+      2. You need to report your learning curve through [Weights & Biases](https://wandb.ai/site). 
       
       3. Your model's performance should be evaluated by suitable metrics and achieve reasonable performance.
          
@@ -148,14 +157,14 @@ Your grade will be comprised of the following weighted components:
          
          2. The model's test data does not have a leaking issue. 
    
-   5. Poster (10%): We plan to have a department-wide poster session. The poster should cover the following parts:
+   5. Poster (10%): We plan to have a department-wide poster presentation. The poster should cover the following parts:
       
       1. Introduction of the question
       2. Details of the deep learning model's design
       3. Results and analysis
       4. Conclusion and future work
 
-4. **Participation**: If you have three unexcused absences. You will lose 5% of your final grade. For example, your final score is 90, but you missed three class, then your final score is $90 \times 0.95 = 85.5$.  Check section **Attendance and Late Policy** for more details.
+4. **Participation**: If you have three unexcused absences. You will lose 5% of your final score. For example, your final score is 90, but you missed three class, then your final score is $90 \times 0.95 = 85.5$.  Check section **Attendance and Late Policy** for more details.
 
 Your final score will be a weighted sum of all three parts. For example, Assignments: 89, exam: 80, and project: 95, then the final score is $89 \times 0.3 + 80 \times 0.1 + 95 \times 0.6 = 91.7$.
 Your final score will convert to a letter grade by following table:
@@ -175,21 +184,27 @@ Your final score will convert to a letter grade by following table:
 | 60~63 | D-           |
 | <60   | F            |
 
-## Attendance and Late Policy
+## Attendance and Late Work Policy
+
+### Attendance
 
 You are expected to attend every class. You may be excused only for college-sanctioned activities, and you must let me know about such absences as soon as you are notified. This includes missing class for religious, athletic, or academic conflicts. If you are sick or have an important appointment at the health or counseling center, please email me before the class and take care of yourself. If you will be absent for a significant period, please contact me to work out a way to catch up. If you must miss a class for a college-sanctioned activity, you must notify me prior to the class in question via email.
 
+### Late Work
+
 No late work will be accepted without prior permission. If you contact me at least one day before the due date (unless faced with an emergency) with appropriate requests for an extension and/or makeup assignments, you will be given additional time to make up late assignments equal to the time lost due to the unforeseen circumstance.
 
-**Any unexcused late (within 24 hours) will result 10% of score deduction for the assignment. For example, your raw assignment's score is 89, because of the late, the score will drop to $ 89 \times 0.9 = 80.1$. If you submit your assignment late more than 24 hours, I will not accept it, the score will be 0.**
+**Any unexcused late (within 24 hours) will result 10% of score deduction for the assignment. For example, your assignment's score is 89, because of the late, the score will drop to $ 89 \times 0.9 = 80.1$. If you submit your assignment late more than 24 hours, I will not accept it, the score will be 0.**
+
+You cannot re-do assignments for a better score.
 
 ## Seeking Help
 
 ### Accommodations
 
-If you believe you may need accommodation for a disability, contact me privately within the first two weeks of the semester to discuss your specific needs. If you have not already done so, please contact Allen Harrison, Assistant Dean of Students for International Students and Accessibility, at 315-859-4021, or via email at aharriso@hamilton.edu. He is responsible for determining reasonable and appropriate accommodations for students with disabilities on a case-by-case basis. 
+If you believe you may need accommodation for a disability, contact me privately within the first two weeks (2024-10-09) of the semester to discuss your specific needs. If you have not already done so, please contact Allen Harrison, Assistant Dean of Students for International Students and Accessibility, at 315-859-4021, or via email at aharriso@hamilton.edu. He is responsible for determining reasonable and appropriate accommodations for students with disabilities on a case-by-case basis. 
 
-***Let me know if you need any kind of accommodations via email before 2024-09-06 (Friday).***
+
 
 ### Mental Health and Wellness
 
@@ -200,20 +215,21 @@ If you are feeling isolated, depressed, sad, anxious, angry, or overwhelmed, you
 The course calendar is intended to be flexible enough to accommodate our class’s particular interests and needs while providing overall guidance and structure. The instructor may adjust topics/assignments as the course progresses. The instructor reserves the right to add or substitute additional readings if relevant materials become
 available during the semester that illustrate key course concepts.
 
-| Date                           | Learning contents                                                                                                                               |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024-09-02 (Monday)<br>Week 2  | 1. Introduction<br>2. Linear algebra + calculus<br>3. Linear regression<br>4. Basic optimization                                                |
-| 2024-09-09 (Monday)<br>Week 3  | 1. Linear classification<br>2. loss function<br>3. softmax<br>4. MLP<br>5. activation function<br>6. Bais and variance trade-off, model fitting |
-| 2024-09-16 (Monday)<br>Week 4  | 1. Weight decay<br>2. drop out<br>3. Stochastic Gradient Descent<br>4. Momentum, AdaGrad, Adam<br>5. Learning rate schedules                    |
-| 2024-09-23 (Monday)<br>Week 5  | 1. Initialization<br>2. Build our first model on House Prices data<br>3. Convolution layer/ Dilated Convolution layer                           |
-| 2024-09-30 (Monday)<br>Week 6  | 1. Polling layer <br>2. AlexNet<br>3. VGG<br>4. NiN<br>5. GoogleNet                                                                             |
-| 2024-10-07 (Monday)<br>Week 7  | 1. Batch Normalization<br>2. More drop out<br>3. ResNet                                                                                         |
-| 2024-10-14 (Monday)<br>Week 8  | 1. Build a CNN for image classification task<br>2. pytorch lightning<br>3. Weights & Biases                                                     |
-| 2024-10-21 (Monday)<br>Week 9  | Guest Talk<br>1. Data augmentation<br>2. Fine tune                                                                                              |
-| 2024-10-28 (Monday)<br>Week 10 | Object Detection and Image Segmentation                                                                                                         |
-| 2024-11-04 (Monday)<br>Week 11 | 1. Review probability<br>2. Word vector and embeddings<br>3. Sequential model                                                                   |
-| 2024-11-11 (Monday)<br>Week 12 | 1. GRU<br>2. LSTM/bi-LSTM<br>3.Seq2seq                                                                                                          |
-| 2024-11-18 (Monday)<br>Week 13 | 1. Word embedding<br>2. Attention, axial attention, channel attention                                                                           |
-| Thanksgiving                   | No Class                                                                                                                                        |
-| 2024-12-02 (Monday)<br>Week 15 | 1. self-attention<br>2. Transformer<br>3. ViT (vision transformer)<br>                                                                          |
-| 2024-12-09 (Monday)<br>Week 16 | Introduction to diffusion                                                                                                                       |
+| Week                           | Learning topiss                                                                                                                                 | Student acitvates                                                                                                                                                                                                                   |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-02 (Monday)<br>Week 2  | 1. Introduction<br>2. Linear algebra + calculus<br>3. Linear regression<br>4. Basic optimization                                                | Work on Assignment 0                                                                                                                                                                                                                |
+| 2024-09-09 (Monday)<br>Week 3  | 1. Linear classification<br>2. loss function<br>3. softmax<br>4. MLP<br>5. activation function<br>6. Bais and variance trade-off, model fitting | Due: Assignment 0 (2024-09-09), bring assignment 0 to class                                                                                                                                                                         |
+| 2024-09-16 (Monday)<br>Week 4  | 1. Weight decay<br>2. drop out<br>3. Stochastic Gradient Descent<br>4. Momentum, AdaGrad, Adam<br>5. Learning rate schedules                    | 1. Work on Assignment 1 (2024-09-16)<br\>2. Start to work on final project's proposal                                                                                                                                               |
+| 2024-09-23 (Monday)<br>Week 5  | 1. Initialization<br>2. Build our first model on House Prices data<br>3. Convolution layer/ Dilated Convolution layer                           | Due: Disscuss final project proposal with me at any office hour this week.<br\>                                                                                                                                                     |
+| 2024-09-30 (Monday)<br>Week 6  | 1. Polling layer <br>2. AlexNet<br>3. VGG<br>4. NiN<br>5. GoogleNet                                                                             | Due: Submit assignment 1 to gradescope before class (2:30 PM)<br\>Start to work on data plan                                                                                                                                        |
+| 2024-10-07 (Monday)<br>Week 7  | 1. Batch Normalization<br>2. More drop out<br>3. ResNet                                                                                         | Due: Submit final project proposal to gradescpoe before class (2:30 PM) <br\>1. Disscuss data plan with me at any office hour this week. <br\>2. Wrok on Assignment 2 (2024-10-07)                                                  |
+| 2024-10-14 (Monday)<br>Week 8  | 1. Build a CNN for image classification task<br>2. pytorch lightning<br>3. Weights & Biases                                                     | Midterm: 2024-10-16 (Wednesday),  7:00 PM - 8:30 PM                                                                                                                                                                                 |
+| 2024-10-21 (Monday)<br>Week 9  | Guest Talk<br>1. Data augmentation<br>2. Fine tune                                                                                              | Due: Submit data collection report to gradescope before class (2:30 PM)<br\>Due: Submit Assignment 2 to gradescope before 2024-10-23 2:30 PM<br\>Start to work on model building and training<br\>Work on Assignment 3 (2014-10-23) |
+| 2024-10-28 (Monday)<br>Week 10 | Object Detection and Image Segmentation                                                                                                         |                                                                                                                                                                                                                                     |
+| 2024-11-04 (Monday)<br>Week 11 | 1. Review probability<br>2. Word vector and embeddings<br>3. Sequential model                                                                   | Due: Discuss training details with me at any office hour this week.<br\>Due: Submit Assignment 3 to gradescope before 2024-11-16 2:30 PM                                                                                            |
+| 2024-11-11 (Monday)<br>Week 12 | 1. GRU<br>2. LSTM/bi-LSTM<br>3.Seq2seq                                                                                                          |                                                                                                                                                                                                                                     |
+| 2024-11-18 (Monday)<br>Week 13 | 1. Word embedding<br>2. Attention, axial attention, channel attention                                                                           | Start to work on proposal                                                                                                                                                                                                           |
+| Thanksgiving                   | No Class                                                                                                                                        |                                                                                                                                                                                                                                     |
+| 2024-12-02 (Monday)<br>Week 15 | 1. self-attention<br>2. Transformer<br>3. ViT (vision transformer)<br>                                                                          | Due: Submit proposal to gradescope before  2024-12-04 2:30 PM                                                                                                                                                                       |
+| 2024-12-09 (Monday)<br>Week 16 | Introduction to diffusion                                                                                                                       |                                                                                                                                                                                                                                     |
+| 2024-12-13 (Friday)            |                                                                                                                                                 | Due:                                                                                                                                                                                                                                |

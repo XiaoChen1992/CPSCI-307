@@ -100,9 +100,7 @@ If you have any financial difficulties in purchasing GPU services, **TALK TO ME*
 
 You should bring a laptop to lectures as we will live code in every class. If you are unable to do this, let me know. You should not use a phone or any similar device during lectures. If you take notes on a tablet, then you should not be typing on it during class, but only writing (e.g. with a stylus) unless you require accommodation for a disability. Tablets should be kept flat on the desk and should not be propped up unless you require accommodation for a disability. If you would like to discuss this restriction, you are always welcome to come talk to me about it.
 
-During most lectures, we will have mini labs (live coding). **You can only use your laptop  for coding at mini lab time. You can't use the computer for anything unrelated to the course content. For example, I found twice that if you use the computer for something unrelated (E.g.: facebook, youtube, game,...) to the course, you will lose 5% of your final grade.**
-
-If your final score is 90, because of using laptop for unrelated to the course content twice. Your score will drop to $90 \times 0.95 =85.5$.
+During most lectures, we will have mini labs (live coding). **You can only use your laptop  for coding at mini lab time. You can't use the computer for anything unrelated to the course content. For example, I found twice that if you use the computer for something unrelated (E.g.: facebook, youtube, game,...) to the course, you will lose 5% of your final grade.** For example: If your final score is 90, because of using laptop for unrelated to the course content twice. Your score will drop to $90 \times 0.95 =85.5$.
 
 ## Academic Integrity & Collaboration
 
@@ -128,13 +126,13 @@ Your final score will be comprised of the following weighted components:
 
 1. **Assignments (30%)**: Three assignments, each assignment contributes 10% of your final score.  The assignments goal is to let you building, training, and testing different types of neural network by PyTorch.
 
-2. **Midterm (10%)**: One midterm (no notes) at Week 7. The exam's goal is to ensure you understand the basic concepts of machine/deep learning.  
+2. **Midterm (10%)**: One midterm exam (no notes) at Week 7. The exam's goal is to ensure you understand the basic concepts of machine/deep learning.  
 
 3. **Final Project (60%)**: The final project covers:
    
-   1. Proposal (10%): Create plan of the final project, up to 2 pages ([IEEE - Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html))  
+   1. Proposal (10%): Create a plan of the final project, up to 2 pages ([IEEE - Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html))  
    
-   2. Data (10%): Report how you collected your own data for the final project. Include the following parts: a. Where is the data source? b. How did you collect the data? c. How did you preprocess the data? The report is up to 1 pages (IEEE format).
+   2. Data (10%): Report how you collected your own data for the final project. Include the following parts: a. Where is the data source? b. How did you collect the data? c. How did you preprocess the data? The report is up to 1 pages (IEEE format). You also need to provide some data example  to me.
    
    3. Code (15%): Upload your project's code to the gradescope. Your code should be well-organized and easy to read. Check this [example](https://github.com/XiaoChen1992/CPSCI-307/tree/main/project_example) to organize your code. If you do not follow the example's style, you will lose 5% of your final project score. For example, if you final project's score is 90, because of missing prompt history, the score will drop to $90\times0.95=85.5$
    
@@ -163,7 +161,7 @@ Your final score will be comprised of the following weighted components:
 
 4. **Participation**: If you have three unexcused absences. You will lose 5% of your final score. For example, your final score is 90, but you missed three class, then your final score is $90 \times 0.95 = 85.5$.  Check section **Attendance and Late Policy** for more details.
 
-Your final score will be a weighted sum of all three parts. For example, Assignments: 89, exam: 80, and project: 95, then the final score is $89 \times 0.3 + 80 \times 0.1 + 95 \times 0.6 = 91.7$.
+Your final score will be a weighted sum of all three parts. For example, assignments: 89, exam: 80, and final project: 95, then the final score is $89 \times 0.3 + 80 \times 0.1 + 95 \times 0.6 = 91.7$.
 Your final score will convert to a letter grade by following table:
 
 | Score | Letter Grade |

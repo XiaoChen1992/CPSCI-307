@@ -86,9 +86,9 @@ During most lectures, we will have mini labs (live coding). **You can only use y
 
 ## Academic Integrity & Collaboration
 
-You should work on all assignments by yourself. You can discuss your assignments with me, your classmates, your friends, or other professors, but you are **NOT** allowed to use others' code or any code from the internet.
+You should work on all assignments by yourself. You can discuss your assignments with me, your classmates, your friends, or other professors, but you are **NOT** allowed to use others' code.
 
-You can work on the final project on your own or team up with up to 3 students. If you choose to work in a team, your team must report each member's contribution in the final report. I encourage all team members to join the entire project pipeline as much as possible, instead of each team member only being in charge of one part of the project. Here is an [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/contrbution.md). You should include this file in your own project, otherwise, each team member will lose 5% of project score. For example, if you final project's score is 90, because of missing file, the score will drop to $90\times0.95=85.5$
+You can work on the final project on your own or team up with up to 3 students. If you choose to work in a team, your team must report each member's contribution. I encourage all team members to join the entire project pipeline as much as possible, instead of each team member only being in charge of one part of the project. Here is an [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/contrbution.md). You should include this file in your own project, otherwise, all team members will lose 5% of project score. For example, if your final project's score is 90, because of missing file, the score will drop to $90\times0.95=85.5$
 
 ### AI Policy
 
@@ -98,7 +98,7 @@ You are **NOT** allowed to use any generative AI tools (online or offline) for y
 
 ### Final Project
 
-You are **ENCOURAGED** to use AI tools for your final project, but you **NEED** to provide your prompt history to me, **otherwise you will lose 5%** of your final project score. Here is a prompt history [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/prompt_history_example.pdf). For example, if you final project's score is 90, because of missing prompt history, the score will drop to $90\times0.95=85.5$
+You are **ENCOURAGED** to use AI tools for your final project, but you **NEED** to provide your prompt history to me, **otherwise you will lose 5%** of your final project score. For example, if you final project's score is 90, because of missing prompt history, the score will drop to $90\times0.95=85.5$. Here is a prompt history [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/prompt_history_example.pdf).
 
 **THIS POLICY APPLIES ONLY TO THIS CLASS!!!** For other classes, follow the academic integrity policy of that class or ask your professor.
 
@@ -106,7 +106,7 @@ You are **ENCOURAGED** to use AI tools for your final project, but you **NEED** 
 
 Your final score will be comprised of the following weighted components:
 
-1. **Assignments (30%)**: Three assignments, each assignment contributes 10% of your final score.  The assignments' goal is to let you building, training, and testing different types of neural network by PyTorch.
+1. **Assignments (30%)**: Three assignments, each assignment contributes 10% of your final score. The assignments' goal is to let you building, training, and testing different types of neural network by PyTorch.
 
 2. **Midterm (10%)**: One midterm exam (no notes) at Week 7. The exam's goal is to ensure you understand the basic concepts of machine/deep learning.  
 
@@ -165,11 +165,11 @@ Your final score will convert to a letter grade by following table:
 
 ### Attendance
 
-You are expected to attend every class. You may be excused only for college-sanctioned activities, and you must let me know about such absences as soon as you are notified. This includes missing class for religious, athletic, or academic conflicts. If you are sick or have an important appointment at the health or counseling center, please email me before the class and take care of yourself. If you will be absent for a significant period, please contact me to work out a way to catch up. If you must miss a class for a college-sanctioned activity, you must notify me prior to the class in question via email.
+You are expected to attend every class. You may be excused only for college-sanctioned activities, and you must let me know about such absences as soon as you are notified. This includes missing class for religious, athletic, or academic conflicts. If you are sick or have an important appointment at the health or counseling center, please email me before the class and take care of yourself. If you must miss a class for a college-sanctioned activity, you must notify me prior to the class in question via email.
 
 ### Late Work
 
-No late work will be accepted without prior permission. If you contact me at least one day before the due date (unless faced with an emergency) with appropriate requests for an extension and/or makeup assignments, you will be given additional time to make up late assignments equal to the time lost due to the unforeseen circumstance.
+No late work will be accepted without prior permission. If you contact me at least one work day before the due date (unless faced with an emergency) with appropriate requests for an extension and/or makeup assignments, you will be given additional time to make up late assignments equal to the time lost due to the unforeseen circumstance.
 
 **Any unexcused late (within 24 hours) will result 10% of score deduction for the assignment. For example, your assignment's score is 89, because of the late, the score will drop to $ 89 \times 0.9 = 80.1$. If you submit your assignment late more than 24 hours, I will not accept it, the score will be 0.**
 
@@ -187,8 +187,7 @@ If you are feeling isolated, depressed, sad, anxious, angry, or overwhelmed, you
 
 ## Learning topics
 
-The course calendar is intended to be flexible enough to accommodate our class’s particular interests and needs while providing overall guidance and structure. The instructor may adjust topics/assignments as the course progresses. The instructor reserves the right to add or substitute additional readings if relevant materials become
-available during the semester that illustrate key course concepts.
+The course calendar is intended to be flexible enough to accommodate our class’s particular interests and needs while providing overall guidance and structure. The instructor may adjust topics/assignments as the course progresses.
 
 | Week                           | Learning topics                                                                                                                                 | Student activities                                                                                                                                                                                                                   |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -200,7 +199,7 @@ available during the semester that illustrate key course concepts.
 | 2024-09-30 (Monday)<br>Week 6  | 1. Polling layer <br>2. AlexNet<br>3. VGG<br>4. NiN<br>5. GoogleNet                                                                             | Due: Submit assignment 1 to gradescope before class (2:30 PM)<br>1. Start to work on data plan                                                                                                                                      |
 | 2024-10-07 (Monday)<br>Week 7  | 1. Batch Normalization<br>2. More drop out<br>3. ResNet                                                                                         | Due: Submit final project proposal to gradescope before class (2:30 PM) <br>1. Discuses data plan with me at any office hour this week. <br>2. Work on Assignment 2 (2024-10-07)                                                    |
 | 2024-10-14 (Monday)<br>Week 8  | 1. Build a CNN for image classification task<br>2. pytorch lightning<br>3. Weights & Biases                                                     | Midterm: 2024-10-16 (Wednesday),  7:00 PM - 8:30 PM                                                                                                                                                                                 |
-| 2024-10-21 (Monday)<br>Week 9  | Guest Talk<br>1. Data augmentation<br>2. Fine tune                                                                                              | Due: Submit data collection report to gradescope before class (2:30 PM)<br>Due: Submit Assignment 2 to gradescope before 2024-10-23 2:30 PM<br>1. Start to work on model building and training<brbrork on Assignment 3 (2014-10-23) |
+| 2024-10-21 (Monday)<br>Week 9  | Guest Talk<br>1. Data augmentation<br>2. Fine tune                                                                                              | Due: Submit data collection report to gradescope before class (2:30 PM)<br>Due: Submit Assignment 2 to gradescope before 2024-10-23 2:30 PM<br>1. Start to work on model building and training<br> 2.Wrork on Assignment 3 (2014-10-23) |
 | 2024-10-28 (Monday)<br>Week 10 | Object Detection and Image Segmentation                                                                                                         |                                                                                                                                                                                                                                     |
 | 2024-11-04 (Monday)<br>Week 11 | 1. Review probability<br>2. Word vector and embeddings<br>3. Sequential model                                                                   | Due: Discuss training details with me at any office hour this week.<br>Due: Submit Assignment 3 to gradescope before 2024-11-16 2:30 PM                                                                                             |
 | 2024-11-11 (Monday)<br>Week 12 | 1. GRU<br>2. LSTM/bi-LSTM<br>3.Seq2seq                                                                                                          |                                                                                                                                                                                                                                     |

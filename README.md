@@ -46,7 +46,7 @@ After this class, you should be able to:
 2. Build a deep learning pipeline to solve the problem
 3. Correctly evaluate your deep learning model's performance
 
-### Important Date and Schedules
+<!-- ### Important Date and Schedules
 
 | Date                   | Due                                                                                                                                             | Note                                                                                                                                                                                                                                    |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,7 +63,7 @@ After this class, you should be able to:
 | 2024-11-06 (Wednesday) | Assignment 3                                                                                                                                    | Submit assignment 3 to gradescope  before class (2:30pm)                                                                                                                                                                                |
 | 2024-12-04 (Wednesday) | Poster Due                                                                                                                                      | I will provide feedback. So you still have one week to refine it.                                                                                                                                                                       |
 | TBD                    | Poster presentation                                                                                                                             |                                                                                                                                                                                                                                         |
-| 2024-12-13 (Friday)    | Submit project folder (includes all required codes, files, plots, etc.) to gradescope before 12:00 PM                                           |                                                                                                                                                                                                                                         |
+| 2024-12-13 (Friday)    | Submit project folder (includes all required codes, files, plots, etc.) to gradescope before 12:00 PM                                           |                                                                                                                                                                                                                                         | -->
 
 ## Prerequisites
 
@@ -203,8 +203,6 @@ You cannot re-do assignments for a better score.
 ### Accommodations
 
 If you believe you may need accommodation for a disability, contact me privately within the first two weeks (2024-10-09) of the semester to discuss your specific needs. If you have not already done so, please contact Allen Harrison, Assistant Dean of Students for International Students and Accessibility, at 315-859-4021, or via email at aharriso@hamilton.edu. He is responsible for determining reasonable and appropriate accommodations for students with disabilities on a case-by-case basis. 
-
-
 
 ### Mental Health and Wellness
 

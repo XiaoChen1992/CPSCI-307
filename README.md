@@ -170,7 +170,7 @@ You are expected to attend every class. You may be excused only for college-sanc
 
 No late work will be accepted without prior permission. If you contact me at least one work day before the due date (unless faced with an emergency) with appropriate requests for an extension and/or makeup assignments, you will be given additional time to make up late assignments equal to the time lost due to unforeseen circumstances.
 
-**Any unexcused late ness (within 24 hours) will result 10% score deduction for the assignment. For example, your assignment's score is 89, because of the late, the score will drop to $ 89 \times 0.9 = 80.1$. If you submit your assignment late more than 24 hours, I will not accept it, the score will be 0.**
+**Any unexcused late ness (within 24 hours) will result 10% score deduction for the assignment. For example, your assignment's score is 89, because of the late, the score will drop to $89 \times 0.9 = 80.1$. If you submit your assignment late more than 24 hours, I will not accept it, the score will be 0.**
 
 You cannot re-do assignments for a better score.
 

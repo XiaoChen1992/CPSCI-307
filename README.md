@@ -73,7 +73,7 @@ You will need a GPU for assignment 2, assignment 3, and final project.
 
 I also provided enviroment.yml file, you can use it by:
 ```shell
-   conda env create --name cpsci307 -f environment.yml
+conda env create --name cpsci307 -f environment.yml
 ```
 
 ### Fee

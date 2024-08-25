@@ -24,7 +24,7 @@ You can meet me at my office (SCCT 2016) or via Zoom.
 
 **Email**: schen3@hamilton.edu
 
-**Gradescope**: https://www.gradescope.com/courses, Entry Code: 8KXJGY
+**Gradescope**: https://www.gradescope.com Entry Code: 8KXJGY
 
 **Edsteam**: [Ed Discussion](https://edstem.org/us/courses/61325/discussion/)
 

@@ -26,7 +26,7 @@ You can meet me at my office (SCCT 2016) or via Zoom.
 
 **Gradescope**: https://www.gradescope.com Entry Code: 8KXJGY
 
-**Edsteam**: [Ed Discussion](https://edstem.org/us/courses/61325/discussion/)
+**Edstem**: [Ed Discussion](https://edstem.org/us/courses/61325/discussion/)
 
 ## Course Description
 

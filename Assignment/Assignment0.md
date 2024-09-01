@@ -10,15 +10,15 @@
 
 1. **Matrix Addition**: Given matrices
    
-   $$
+```math
    A = \begin{bmatrix} 1 & 2 \\\ 3 & 4 \end{bmatrix}
-   $$
+```
    
    and 
    
-   $$
+```math
    B = \begin{bmatrix} 2 & 3 \\\ 1 & 4 \end{bmatrix}
-   $$
+```
    
 calculate (A + B).
 
@@ -29,25 +29,25 @@ calculate (A + B).
 ```
    
    and 
-   $$
+```math
    D = \begin{bmatrix} 5 & 6 \\\ 7 & 8 \end{bmatrix}
-   $$.
+```
 
 3. **Transpose of a Matrix**: Find the transpose of matrix
-   $$
+```math
    E = \begin{bmatrix} 1 & 3 & 5 \\\ 2 & 4 & 6 \end{bmatrix}
-   $$.
+```
 
 4. **Matrix multiplication**: Multiply matrices 
    
-   $$
+```math
    C = \begin{bmatrix} 1 & 0 \\\ 0 & 1 \end{bmatrix}
-   $$
+```
    
    and 
-   $$
+```math
    D = \begin{bmatrix} 5 & 6 \\ 7 & 8 \end{bmatrix}
-   $$.
+```
 
 ### Calculus
 

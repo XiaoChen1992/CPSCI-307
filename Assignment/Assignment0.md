@@ -25,23 +25,23 @@ calculate (A + B).
 2. **Matrix inner product**: Get inner product of matrices 
    
    $$
-   C = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}
+   C = \begin{bmatrix} 1 & 0 \\\ 0 & 1 \end{bmatrix}
    $$
    
    and 
    $$
-   D = \begin{bmatrix} 5 & 6 \\ 7 & 8 \end{bmatrix}
+   D = \begin{bmatrix} 5 & 6 \\\ 7 & 8 \end{bmatrix}
    $$.
 
 3. **Transpose of a Matrix**: Find the transpose of matrix
    $$
-   E = \begin{bmatrix} 1 & 3 & 5 \\ 2 & 4 & 6 \end{bmatrix}
+   E = \begin{bmatrix} 1 & 3 & 5 \\\ 2 & 4 & 6 \end{bmatrix}
    $$.
 
 4. **Matrix multiplication**: Multiply matrices 
    
    $$
-   C = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}
+   C = \begin{bmatrix} 1 & 0 \\\ 0 & 1 \end{bmatrix}
    $$
    
    and 

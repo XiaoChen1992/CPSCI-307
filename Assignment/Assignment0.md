@@ -22,15 +22,15 @@
    
 calculate (A + B).
 
-2. **Matrix inner product**: Get inner product of matrices 
+2. **Matrix multiply vector**: Get multiplication of matrices 
    
 ```math
-   C = \begin{bmatrix} 1 & 0 \\\ 0 & 1 \end{bmatrix}
+   C = \begin{bmatrix} 1 & 2 \\\ 3 & 4 \end{bmatrix}
 ```
    
-   and 
+   and vector
 ```math
-   D = \begin{bmatrix} 5 & 6 \\\ 7 & 8 \end{bmatrix}
+   D = [5, 6]
 ```
 
 3. **Transpose of a Matrix**: Find the transpose of matrix
@@ -41,12 +41,12 @@ calculate (A + B).
 4. **Matrix multiplication**: Multiply matrices 
    
 ```math
-   C = \begin{bmatrix} 1 & 0 \\\ 0 & 1 \end{bmatrix}
+   F = \begin{bmatrix} 1 & 4 \\\ 3 & 2 \end{bmatrix}
 ```
    
    and 
 ```math
-   D = \begin{bmatrix} 5 & 6 \\ 7 & 8 \end{bmatrix}
+   G = \begin{bmatrix} 5 & 6 \\ 7 & 8 \end{bmatrix}
 ```
 
 ### Calculus

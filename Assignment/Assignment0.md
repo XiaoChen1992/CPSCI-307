@@ -20,7 +20,7 @@
    B = \begin{bmatrix} 2 & 3 \\ 1 & 4 \end{bmatrix}
    $$
    
-   calculate \(A + B\).
+calculate (A + B).
 
 2. **Matrix inner product**: Get inner product of matrices 
    

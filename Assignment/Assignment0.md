@@ -11,13 +11,13 @@
 1. **Matrix Addition**: Given matrices
    
    $$
-   A = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}
+   A = \begin{bmatrix} 1 & 2 \\\ 3 & 4 \end{bmatrix}
    $$
    
    and 
    
    $$
-   B = \begin{bmatrix} 2 & 3 \\ 1 & 4 \end{bmatrix}
+   B = \begin{bmatrix} 2 & 3 \\\ 1 & 4 \end{bmatrix}
    $$
    
 calculate (A + B).

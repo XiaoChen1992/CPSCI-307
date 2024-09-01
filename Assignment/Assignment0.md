@@ -24,9 +24,9 @@ calculate (A + B).
 
 2. **Matrix inner product**: Get inner product of matrices 
    
-   $$
+```math
    C = \begin{bmatrix} 1 & 0 \\\ 0 & 1 \end{bmatrix}
-   $$
+```
    
    and 
    $$

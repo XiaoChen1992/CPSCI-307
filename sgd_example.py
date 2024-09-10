@@ -9,7 +9,7 @@ def df(x):
 
 # Parameters
 x = -4       # initial guess
-eta = 0.1   # learning rate
+eta = 1.2   # learning rate
 iterations = 20  # fewer iterations for clearer visualization
 
 # Collect data points for the plot
@@ -24,7 +24,7 @@ for i in range(iterations):
     y_values.append(f(x))
 
 # Generate values for plotting the function
-x_plot = np.linspace(-1, 5, 400)
+x_plot = np.linspace(-10, 10, 1000)
 y_plot = f(x_plot)
 
 # Create the plot

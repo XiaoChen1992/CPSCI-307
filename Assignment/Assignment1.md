@@ -24,7 +24,7 @@ After downloading and extracting the `.zip` file, you will find:
 
 **Important:** You are only allowed to use `train.csv` to build your training and validation sets. Use `test.csv` solely to evaluate your model's performance on the test set.
 
-An example code demonstrating how to build a custom dataset in PyTorch is provided here: [create_dataset.py](https://github.com/XiaoChen1992/CPSCI-307/blob/main/notebooks/create_dataset.py). Use this code as a reference to build your dataset for house price prediction. If you have any questions, feel free to ask.
+An example code demonstrating how to build a custom dataset in PyTorch is provided here: [[create_dataset.py](https://github.com/XiaoChen1992/CPSCI-307/blob/main/notebooks/create_dataset.py)](https://github.com/XiaoChen1992/CPSCI-307/blob/main/notebooks/create_dateset.py). Use this code as a reference to build your dataset for house price prediction. If you have any questions, feel free to ask.
 
 ---
 

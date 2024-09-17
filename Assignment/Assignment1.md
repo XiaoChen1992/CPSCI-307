@@ -6,7 +6,7 @@ For this assignment, you will build a deep Multi-Layer Perceptron (MLP) model to
 
 The assignment consists of two parts:
 
-1. **First Stage Model:** Build your own deep MLP model using the PyTorch library without copying code from others or the internet.
+1. **First Stage Model:** Build your own deep MLP model using the PyTorch library without copying code from others or the internet. You can use google to debug and check PyTorch documentation.
 2. **Second Stage Model:** Explore Kaggle kernels or other public code to see how others have built their deep MLP models for house price prediction. Incorporate at least two techniques from others to improve your own model. Note that some public solutions are machine learning-based, and some are deep learning-based; therefore, some techniques may not directly apply to your deep learning model.
 
 ---

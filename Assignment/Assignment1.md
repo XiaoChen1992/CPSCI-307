@@ -6,7 +6,7 @@ For this assignment, you will build a deep Multi-Layer Perceptron (MLP) model to
 
 The assignment consists of two parts:
 
-1. **First Stage Model:** Build your own deep MLP model using the PyTorch library without copying code from others or the internet.
+1. **First Stage Model:** Build your own deep MLP model using the PyTorch library without copying code from others or the internet. You can use google to debug and check PyTorch documentation.
 2. **Second Stage Model:** Explore Kaggle kernels or other public code to see how others have built their deep MLP models for house price prediction. Incorporate at least two techniques from others to improve your own model. Note that some public solutions are machine learning-based, and some are deep learning-based; therefore, some techniques may not directly apply to your deep learning model.
 
 ---
@@ -24,7 +24,7 @@ After downloading and extracting the `.zip` file, you will find:
 
 **Important:** You are only allowed to use `train.csv` to build your training and validation sets. Use `test.csv` solely to evaluate your model's performance on the test set.
 
-An example code demonstrating how to build a custom dataset in PyTorch is provided here: [create_dataset.py](https://github.com/XiaoChen1992/CPSCI-307/blob/main/notebooks/create_dataset.py). Use this code as a reference to build your dataset for house price prediction. If you have any questions, feel free to ask.
+An example code demonstrating how to build a custom dataset in PyTorch is provided here: [[create_dataset.py](https://github.com/XiaoChen1992/CPSCI-307/blob/main/notebooks/create_dataset.py)](https://github.com/XiaoChen1992/CPSCI-307/blob/main/notebooks/create_dateset.py). Use this code as a reference to build your dataset for house price prediction. If you have any questions, feel free to ask.
 
 ---
 

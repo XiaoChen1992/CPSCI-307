@@ -86,13 +86,13 @@ If you have any financial difficulties in purchasing GPU services, **TALK TO ME*
 
 You should bring a laptop to lectures as we will live code in every class. If you are unable to do this, let me know. You should not use a phone or any similar device during lectures. If you take notes on a tablet, then you should not be typing on it during class, but only writing (e.g. with a stylus) unless you require accommodation for a disability. Tablets should be kept flat on the desk and should not be propped up unless you require accommodation for a disability. If you would like to discuss this restriction, you are always welcome to come talk to me about it.
 
-During most lectures, we will have mini-labs (live coding). **You can only use your laptop  for coding at mini-lab time. You can't use the computer for anything unrelated to the course content. For example, I found twice that if you use the computer for something unrelated (E.g.: Facebook, YouTube, game,...) to the course, you will lose 5% of your final grade.** For example: If your final score is 90, because of using the laptop for unrelated to the course content twice. Your score will drop to $90 \times 0.95 =85.5$.
+During most lectures, we will have mini-labs (live coding). **You can only use your laptop  for coding at mini-lab time. You can't use the computer for anything unrelated to the course content. For example, I found twice that if you use the computer for something unrelated (E.g.: Facebook, YouTube, game,...) to the course, you will lose 5% of your final grade.** For example: If your final score is 90, because of using the laptop for unrelated to the course content twice. Your score will drop to 85.5.
 
 ## Academic Integrity & Collaboration
 
 You should work on all assignments by yourself. You can discuss your assignments with me, your classmates, your friends, or other professors, but you are **NOT** allowed to use others' code.
 
-You can work on the final project on your own or team up with up to 3 students. If you choose to work in a team, your team must report each member's contribution. I encourage all team members to join the entire project pipeline as much as possible, instead of each team member only being in charge of one part of the project. Here is an [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/contrbution.md). You should include this file in your own project, otherwise, all team members will lose 5% of the project score. For example, if your final project's score is 90, because of a missing file, the score will drop to $90\times0.95=85.5$
+You can work on the final project on your own or team up with up to 3 students. If you choose to work in a team, your team must report each member's contribution. I encourage all team members to join the entire project pipeline as much as possible, instead of each team member only being in charge of one part of the project. Here is an [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/contrbution.md). You should include this file in your own project, otherwise, all team members will lose 5% of the project score. For example, if your final project's score is 90, because of a missing file, the score will drop to 85.5.
 
 ### AI Policy
 
@@ -102,7 +102,7 @@ You are **NOT** allowed to use any generative AI tools (online or offline) for y
 
 ### Final Project
 
-You are **ENCOURAGED** to use AI tools for your final project, but you **NEED** to provide your prompt history to me, **otherwise you will lose 5%** of your final project score. For example, if your final project's score is 90, because of missing prompt history, the score will drop to $90\times0.95=85.5$. Here is a prompt history [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/prompt_history_example.pdf).
+You are **ENCOURAGED** to use AI tools for your final project, but you **NEED** to provide your prompt history to me, **otherwise you will lose 5%** of your final project score. For example, if your final project's score is 90, because of missing prompt history, the score will drop to 85.5. Here is a prompt history [example](https://github.com/XiaoChen1992/CPSCI-307/blob/main/project_example/prompt_history_example.pdf).
 
 **THIS POLICY APPLIES ONLY TO THIS CLASS!!!** For other classes, follow the academic integrity policy of that class or ask your professor.
 
@@ -120,7 +120,7 @@ Your final score will be comprised of the following weighted components:
    
    2. Data (10%): Report how you collected your own data for the final project. Include the following parts: a. Where is the data source? b. How did you collect the data? c. How did you preprocess the data? The report is up to 1 page (IEEE format). You also need to provide some data examples to me.
    
-   3. Code (15%): Upload your project's code to the gradescope. Your code should be well-organized and easy to read. Check this [example](https://github.com/XiaoChen1992/CPSCI-307/tree/main/project_example) to organize your code. If you do not follow the example's style, you will lose 5% of your final project score. For example, if your final project's score is 90, because of missing prompt history, the score will drop to $90\times0.95=85.5$
+   3. Code (15%): Upload your project's code to the gradescope. Your code should be well-organized and easy to read. Check this [example](https://github.com/XiaoChen1992/CPSCI-307/tree/main/project_example) to organize your code. If you do not follow the example's style, you will lose 5% of your final project score. For example, if your final project's score is 90, because of missing prompt history, the score will drop to 85.5.
    
    4. Performance (15%):
       
@@ -145,9 +145,9 @@ Your final score will be comprised of the following weighted components:
       3. Results and analysis
       4. Conclusion and future work
 
-4. **Participation**: If you have three unexcused absences. You will lose 5% of your final score. For example, if your final score is 90, but you missed three classes, then your final score is $90 \times 0.95 = 85.5$.  Check section **Attendance and Late Policy** for more details.
+4. **Participation**: If you have three unexcused absences. You will lose 5% of your final score. For example, if your final score is 90, but you missed three classes, then your final score is 85.5.  Check section **Attendance and Late Policy** for more details.
 
-Your final score will be a weighted sum of all three parts. For example, Assignments: 89, exam: 80, and final project: 95, then the final score is $89 \times 0.3 + 80 \times 0.1 + 95 \times 0.6 = 91.7$.
+Your final score will be a weighted sum of all three parts. For example, Assignments: 89, exam: 80, and final project: 95, then the final score is 91.7.
 Your final score will convert to a letter grade by following the table:
 
 | Score | Letter Grade |
@@ -175,7 +175,7 @@ You are expected to attend every class. You may be excused only for college-sanc
 
 No late work will be accepted without prior permission. If you contact me at least one work day before the due date (unless faced with an emergency) with appropriate requests for an extension and/or makeup assignments, you will be given additional time to make up late assignments equal to the time lost due to unforeseen circumstances.
 
-**Any unexcused late ness (within 24 hours) will result 10% score deduction for the assignment. For example, your assignment's score is 89, because of the late, the score will drop to $89 \times 0.9 = 80.1$. If you submit your assignment late more than 24 hours, I will not accept it, the score will be 0.**
+**Any unexcused late ness (within 24 hours) will result 10% score deduction for the assignment. For example, your assignment's score is 89, because of the late, the score will drop to $$89 \times 0.9 = 80.1$$. If you submit your assignment late more than 24 hours, I will not accept it, the score will be 0.**
 
 You cannot re-do assignments for a better score.
 

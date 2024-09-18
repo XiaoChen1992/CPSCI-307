@@ -36,9 +36,15 @@ class RegressionDataset(Dataset):
         self.labels = labels
         
     def __len__(self):
+        """
+        This function is required by PyTorch to determine the length of the dataset.
+        """
         return len(self.labels)
         
     def __getitem__(self, idx):
+        """
+        This funcion is required by PyTorch to retrieve a sample from the dataset.
+        """
         feature = self.features[idx]
         label = self.labels[idx]
         return feature, label

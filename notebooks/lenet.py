@@ -43,10 +43,34 @@ class LeNet_v2(nn.Module):
         x = self.fc3(x)
         return x
     
+class LeNet_v3(nn.Module):
+    def __init__(self, ) -> None:
+        super().__init__()
+        self.conv1 = nn.Conv2d(1, 6, 5)
+        self.conv2 = nn.Conv2d(6, 16, 5)
+        self.pool = nn.MaxPool2d(2, 2)
+        self.flattener = nn.Flatten()
+        self.fc1 = nn.LazyLinear(120)
+        self.fc2 = nn.Linear(120, 84)
+        self.fc3 = nn.Linear(84, 10)
+        self.activation = nn.Sigmoid()
+    
+    def forward(self, x):
+        x = self.pool(self.activation((self.conv1(x))))
+        x = self.pool(self.activation((self.conv2(x))))
+        x = self.flattener(x)
+        x = self.activation(self.fc1(x))
+        x = self.activation(self.fc2(x))
+        x = self.fc3(x)
+        return x
 
 if __name__ == '__main__':
-    x = torch.randn(1, 1, 28, 28)
+    x = torch.randn(1, 1, 28, 28) # the frist `1` is the batch size
+    # x_2 = torch.randn(1, 28, 28) # try this x_2 and see what happens
     model1 = LeNet_v1()
     model2 = LeNet_v2()
+    model3 = LeNet_v3()
+
     print(model1(x).shape)
     print(model2(x).shape)
+    print(model3(x).shape)

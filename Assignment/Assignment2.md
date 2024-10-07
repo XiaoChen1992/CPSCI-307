@@ -18,10 +18,12 @@ Download data: https://drive.google.com/file/d/11u7tm95zylQ0UEdWFQaVrZgHqOOAVZzL
 
 * Research and implement methods to build an image dataset suitable for training a classification model.
 * Create appropriate labels for the images to distinguish between NIKE and Adidas shoes.
+
 **Data Augmentation (Optional)**:
 * Apply data augmentation techniques to enhance the diversity of your training dataset.
+
 **Preprocessing:**
-* Normalize image data as required.
+* Normalize image data as required (if needed).
 * Resize or crop images to a uniform size compatible with your CNN model.
 
 ### 2. Model Development

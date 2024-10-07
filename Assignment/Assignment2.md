@@ -31,8 +31,6 @@ Download data: https://drive.google.com/file/d/11u7tm95zylQ0UEdWFQaVrZgHqOOAVZzL
 **Build a Convolutional Neural Network (CNN)**:
 * Design a CNN architecture capable of classifying images as either NIKE or Adidas.
 * Justify your choice of architecture and layers.
-**Implementation**:
-* Use a deep learning framework of your choice (e.g., TensorFlow, Keras, PyTorch).
 
 ## 3. Model Training and Validation
 

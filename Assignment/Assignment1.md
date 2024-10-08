@@ -63,7 +63,7 @@ In this stage, you are encouraged to use techniques from others to improve your 
 2. **Improvement Analysis:** Discuss whether you achieved any improvement in your model's performance. If yes, quantify the improvement.
 3. **Evaluation:** Explain why you think these techniques worked or did not work for house price prediction.
 4. **Learning Curve:** Provide a plot showing the training and validation loss over epochs, similar to the first stage.
-5. **Performance Metrics:** Report the MSE and MAE on the test set.
+5. **Performance Metrics:** Report your kaggle result (screenshot is fine) to me.
 
 ### Submission:
 
